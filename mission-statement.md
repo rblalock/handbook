@@ -1,5 +1,5 @@
 # Mission Statement
 
-## Our mission is help companies build better software.
+We're building a platform that drives continuous improvement into a company's software delivery efforts. Consequently, our mission is simple: **Help companies build better software**.
 
-We are building a platform that answers key questoins and drives continuous improvement into a company's software delivery efforts.
+This is aligned directly with [Our Values](https://github.com/pinpt/handbook/blob/master/pinpt-values.md).
