@@ -1,5 +1,5 @@
 # Our Company Handbook
-A Collaborative Handbook for Staff and Our Community
+*A Collaborative Handbook for Staff and Our Community*
 
 Every company wants to build a healthy, dynamic, values-driven, and inclusive (add more fancy buzzwords here...) organizational culture but it's much easier said than done. And we understand as we know that most companies, especially early-stage ventures like ours, struggle with simply taking the time to write out and codify their beliefs and cultural values when there are 1,000 other things to be doing!
 
