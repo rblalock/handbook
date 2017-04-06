@@ -1,6 +1,6 @@
 # Pinpoint Core Values
 
-Our values are simple and straight-forward, liberally taken from Jeff and Nolan's previous venture which worked out really well.
+Our values are simple and straight-forward, liberally taken from Jeff and Nolan's previous venture which worked out really well (see Axway acquisition [here](https://techcrunch.com/2016/01/17/axway-acquires-mobile-app-development-platform-appcelerator/)).
 
 ## Humility
 
