@@ -1,6 +1,8 @@
 # Onboarding
 
-This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Pinpoint, check out [Your First Day at Pinpoint](https://docs.google.com/document/d/1vvJfWH7lP808mAlKPr8JwUx0HvkiidzS_bkwB8wqA7M).
+**TBD AND UPDATED!!!**
+
+This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Pinpoint, check out [Your First Day at Pinpoint](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/welcome-to-pinpoint.md).
 
 We may also create specific onboarding recommendations for different roles in the future.
 
@@ -10,15 +12,15 @@ After a candidate accepts an offer to join Pinpoint, there are a few things that
 
 1. Employment paperwork (these should end up in their Personnel folder, which should be shared with them in Google Drive)
 
-    1. Signed [Offer Letter](https://docs.google.com/document/d/1WUiY-mzKHJblc6MatcyZcqWqdnhe_D4fl0RvFXR7dz0)
+    1. Signed [Offer Letter](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/pinpoint-offer-letter.md)
 
-    2. Signed [Proprietary Information and Inventions Assignment Agreement](https://docs.google.com/document/d/10RI3ne-OLjU8cwuwVuYA3H_pQdEW1pioz1zIAJ3nOLY)
+    2. Signed [Proprietary Information and Inventions Assignment Agreement](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/employee-proprietary-information-inventions-assignment-agreement.md)
 
 2. Creating accounts
 
     3. Google Apps account
 
-        1. Gmail [NAME@getPinpoint.com](mailto:NAME@getPinpoint.com)
+        1. Gmail [NAME@pinpt.co](mailto:NAME@pinpt.co)
 
         2. Google Drive (base folders should be pre-configured for them)
 
@@ -32,11 +34,11 @@ After a candidate accepts an offer to join Pinpoint, there are a few things that
 
 3. Background reading
 
-    6. [A talk Jesse gave about cryptography](http://wordpress.tv/2014/05/20/jesse-pollak-crypto-101-demystifying-the-cryptography-behind-wordpress/)
+    6. [text one]()
 
-    7. [A pretty good article about the public key crypto Pinpoint uses](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
+    7. [text two]()
 
-    8. [A great explanation of Bitcoin](http://priceonomics.com/post/47135650437/are-bitcoins-the-future)
+    8. [text three]()
 
 4. Payroll, benefits, etc. set up -- introduce to Patricia, who will manage this process
 
@@ -66,6 +68,6 @@ Some guidelines for the first day:
 
 The first week of working at Pinpoint should be focused on learning -- learning the company norms, learning how to work with everyone, learning the tools we use, etc. New employees should be contributing a little bit all week, but the expectation is that they ask questions and get set up, not that they immediately assume leadership.
 
-After a week, the new employee should have their first one-on-one meeting. This meeting should go over all of the normal things that we cover in [One on Ones](https://docs.google.com/open?authuser=b%40getPinpoint.com&id=1yVp1XzfjmHkwf_vQf-COInCHj2xd3b7ne_77YSleRgc), but should also probe about any gaps in their knowledge. Importantly, it should also cover [OKRs](https://docs.google.com/open?authuser=b%40getPinpoint.com&id=1ZpDWejQiU5gDWz2mFPvOhdf1g2Xc6vu1kdrlCp3SimU), and go over the company’s objectives. After this meeting, the new employee should write their OKRs for the rest of the quarter (this fractional quarter should be viewed as a sort of practice run). Another meeting to talk about the OKRs should be scheduled for the next day or two.
+After a week, the new employee should have their first one-on-one meeting. This meeting should go over all of the normal things that we cover in [One on Ones](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/one-on-ones.md), but should also probe about any gaps in their knowledge. Importantly, it should also cover [OKRs](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/objectives-and-key-results.md), and go over the company’s objectives. After this meeting, the new employee should write their OKRs for the rest of the quarter (this fractional quarter should be viewed as a sort of practice run). Another meeting to talk about the OKRs should be scheduled for the next day or two.
 
 From there, the process should merge towards the normal process. It’s important to set reasonable expectations and be very supportive for as long as it takes for the employee to feel comfortable at Pinpoint (this might be a week for some and a month for others).
