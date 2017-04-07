@@ -4,9 +4,7 @@ I acknowledge I have received a copy of the Pinpoint Employee Handbook, have rea
 
 I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Pinpoint may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
 
-
 I understand and agree that my employment with Pinpoint is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  This is the entire agreement between me and Pinpoint on this subject; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO.
-
 
 I acknowledge that it is my responsibility to read and become familiar with the contents of the handbook.
 
@@ -28,29 +26,30 @@ Signature: ________________________
 
 
 ## Contents of the Pinpoint Employee Handbook
-This handbook is hosted online at [github.com/Pinpoint/handbook](https://github.com/handbook), along with several other policies. The *Pinpoint Employee Handbook* consists of only the policies listed below.
+This handbook is hosted online at [github.com/pinpt/handbook](https://github.com/pinpt/handbook), along with several other policies. The *Pinpoint Employee Handbook* consists of only the policies listed below.
 
 ### Introduction
-* [Handbook Introduction](https://github.com/Pinpoint/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
-* [Mission Statement](https://github.com/Pinpoint/handbook/blob/master/Mission%20Statement.md)
-* [Pinpoint Values](https://github.com/Pinpoint/handbook/blob/master/Pinpoint%20Values.md)
+* [Handbook Introduction](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/handbook-introduction.md)
+* [Our Mission](https://github.com/pinpt/handbook/blob/master/mission-statement.md)
+* [Our Values](https://github.com/pinpt/handbook/blob/master/our-values.md)
 
 ### Employment Policies
-* [Equal Opportunity Employment](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
-* [At-Will Employment](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* [Salary and Equity Compensation](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md)
-* [Code of Conduct in the Community](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
-* [Complaint Policy](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
-* [Drug and Alcohol Policy](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Employee Privacy](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
-* [Working Remotely](https://github.com/Pinpoint/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
+* [Equal Opportunity Employment](https://github.com/pinpt/handbook/blob/master/Employment-Policies/equal-opportunity-employment.md)
+* [At-Will Employment](https://github.com/pinpt/handbook/blob/master/Employment-Policies/at-will-employment.md)
+* [Salary and Equity Compensation](https://github.com/pinpt/handbook/blob/master/Employment-Policies/salary-equity-compensation.md)
+* [Code of Conduct in the Community](https://github.com/pinpt/handbook/blob/master/Employment-Policies/code-of-conduct-community.md)
+* [Complaint Policy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/complaint-policy.md)
+* [Drug and Alcohol Policy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/drug-alcohol-policy.md)
+* [Employee Privacy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/employee-privacy.md)
+* [Working Remotely](https://github.com/pinpt/handbook/blob/master/Employment-Policies/working-remotely.md)
 
-### Benefits and Perks
-* [Health Care and Disability Insurance](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
-* [Vacation and Sick Leave](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
-* [Holiday List](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
-* [Referral Bonuses](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
-* [Continuing Education](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
-* [Sabbatical](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
-* [New Parent Leave](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
-* [Other Protected Absences](https://github.com/Pinpoint/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
+### Corporate Benefits
+*[Continuing Education](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/continuing-education.md)
+*[Healthcare and Disability Insurance](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/healthcare-disability-insurance.md)
+*[Holiday List](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/holiday-list.md)
+*[New Parent Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/new-parent-leave.md)
+*[Other Protected Absences](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/other-protected-absences.md)
+*[Referral Bonus](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/referral-bonus.md)
+*[Sabbatical](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/sabbatical.md)
+*[Vacation and Sick Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/vacation-sick-leave.md)
+

@@ -1,5 +1,8 @@
 #Salary and Equity Compensation
 
+**TBD and UPDATED!! THIS IS NOT FINAL**
+
+
 The following policy will apply to compensation offers for the first 10 employees at Pinpoint. After we have hired 10 people, we will likely revise the salary rubric and equity amount.
 
 ##Salary
@@ -35,7 +38,7 @@ The offer also comes with the option to take $5k less salary in exchange for ~.1
 
 At the beginning of each year (in January), we will adjust this rubric to make sure it stays at market rate.
 
-Note: The three Pinpoint founders' salaries do not follow this rubric and are all $50k per year.
+Note: The three Pinpoint founders' salaries do not follow this rubric and are all $0k per year.
 
 ##Equity
 
@@ -45,4 +48,4 @@ These equity grants are larger than industry standard, but also vest over a long
 
 At Pinpoint, we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave Pinpoint before the 6 years, they will still own more of Pinpoint than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
 
-All new employees should also check out our [Guide to Your Equity](https://github.com/Pinpoint/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning Pinpoint stock options.
+All new employees should also check out our [Guide to Your Equity](hhttps://github.com/pinpt/handbook/blob/master/Hiring-Docs/guide-to-your-equity.md), which walks through the nuances of owning Pinpoint stock options.

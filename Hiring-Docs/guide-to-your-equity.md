@@ -1,5 +1,7 @@
 # Guide to Your Equity
 
+**TBD! This is just a draft and is NOT accurate**
+
 There are currently **4,662,658** shares of Pinpoint common stock outstanding.
 
 Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=0Bwj0rVaUQUXPaXREcklsZ0xuNTA). Any employee with questions about the report, our share price, or valuation should ask B.

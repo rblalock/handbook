@@ -23,5 +23,5 @@ Signature: ________________________
 ***
 
 
-## [Pinpoint Employee Handbook **QTR YR**](https://getPinpoint.com/handbook/QTR-YR)
-## [Changes this Quarter](https://getPinpoint.com/handbook/changelog/QTR-YR)
+## [Pinpoint Employee Handbook **QTR YR**]()
+## [Changes this Quarter]()

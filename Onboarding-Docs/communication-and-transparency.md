@@ -1,5 +1,7 @@
 # Communication and Transparency
 
+**TBD and Updated. This is NOT Final**
+
 The best way for you to make a decision about what’s good for Pinpoint is to have all of the information about what’s going on at Pinpoint. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Pinpoint that we’re not actively involved with.
 
 Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page, especially on projects they’re not working on on a daily basis, even for a company the size of Pinpoint. These are some of the policies we use to make information more accessible, but our work is ongoing.

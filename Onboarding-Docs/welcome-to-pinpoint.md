@@ -1,5 +1,7 @@
 # Welcome to Pinpoint
 
+**TBD AND UPDATED**
+
 Hey! Welcome to the Pinpoint team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Pinpoint works and how we work together.
 
 At Pinpoint, we’re trying to build an inclusive and value-driven organization, so you’ll find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please let us know (or just write comments in the documents -- you should already have comment access to everything in the Pinpoint handbook!).  
@@ -30,19 +32,22 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 ## The Basics about Pinpoint
 
-**Pinpoint is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Pinpoint and they guide the decisions we make here. You can read more about the [Pinpoint Values](https://github.com/Pinpoint/handbook/blob/master/Pinpoint%20Values.md), but the short versions are:
+**Pinpoint is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Pinpoint and they guide the decisions we make here. You can read more about the [Pinpoint Values](https://github.com/pinpt/handbook/blob/master/our-values.md), but the short versions are:
 
-* Be better today than yesterday
+* Humility
 
-* Treat others the way they'd like to be treated
+* Continuous Improvement
 
-* Fight the default of exclusion
+* Customer Success
 
-* We succeed together when we trust each other
 
-**Pinpoint isn’t a normal security company.** Security is traditionally a very technical and inaccessible field. At Pinpoint, we’re working to make security easy and approachable to everyone, and that radiates through everything we do. Our product is meant to be friendly and fun, and our attitude should never feel superior or smug. Pinpoint isn’t about protecting people, it’s about empowering them.
+**Pinpoint isn’t a normal tech startup company.** 
 
-**Our ambition is huge.** We want to build the identity standard for the Internet. This is a massive undertaking, and we have to be a little bit delusional to believe that we can do it. But every day we’re making progress and we’ve already taken this a lot further than anyone said was possible, so we’re used to making the impossible happen. This is hard, daunting work, but that’s how we make a dent on the world.
+...
+
+**Our ambition is huge.** 
+
+We want to build the..
 
 ## The Pinpoint Team, Hours, and Office
 
@@ -50,7 +55,7 @@ For now, Pinpoint operates as a single team where everyone is working towards co
 
 We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
 
-You should expect a typical workweek at Pinpoint to be 45-50 hours. Most people show up between 9 and 10 and leave between 6 and 7. We don’t work weekends, but a lot of us host or go to events at night. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you.
+You should expect a typical workweek at Pinpoint to be 45-50 hours. Most people show up between 9 and 10 and leave between 6 and 7. We don’t want folks to work weekends or late nights, but a lot of us host or go to events in the evening. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you.
 
 We try to make the office atmosphere welcoming and respectful for people of all different backgrounds. This is an ongoing process of negotiating and compromising as we share space, and depends on good communication. If there are specific things you like or want to change, let us know. We’re always getting better :)
 

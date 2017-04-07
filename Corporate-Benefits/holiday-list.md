@@ -1,9 +1,9 @@
-# Pinpoint Observed Holiday List
+# Pinpoint Observed Holiday List for 2017
 
 <table>
   <tr>
     <td>New Year’s Day</td>
-    <td>January 1</td>
+    <td>January 2</td>
   </tr>
   <tr>
     <td>Birthday of Martin Luther King, Jr. </td>
@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>President’s Day</td>
-    <td>February 16</td>
+    <td>February 20</td>
   </tr>
   <tr>
     <td>Cesar Chavez Day</td>
@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>Memorial Day</td>
-    <td>Last Monday in May</td>
+    <td>May 29, Last Monday in May</td>
   </tr>
   <tr>
     <td>Independence Day</td>
@@ -27,19 +27,19 @@
   </tr>
   <tr>
     <td>Labor Day</td>
-    <td>First Monday in September</td>
+    <td>September 4, First Monday in September</td>
   </tr>
   <tr>
-    <td>Indigenous People’s Day</td>
-    <td>Second Monday in October</td>
+    <td>Indigenous People’s Day (Columbus Day)</td>
+    <td>October 9, Second Monday in October</td>
   </tr>
   <tr>
     <td>Veterans Day</td>
-    <td>November 11</td>
+    <td>November 10 (Observed), November 11 (Saturday)</td>
   </tr>
   <tr>
     <td>Thanksgiving Day and Friday</td>
-    <td>Fourth Thursday in November and following Friday</td>
+    <td>November 23-24, Fourth Thursday in November and following Friday</td>
   </tr>
   <tr>
     <td>Christmas Eve</td>
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td>Christmas Day</td>
-    <td>December 25</td>
+    <td>December 25-26</td>
   </tr>
 </table>
 

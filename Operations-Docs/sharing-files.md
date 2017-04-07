@@ -1,10 +1,12 @@
 # Sharing Files at Pinpoint
 
+**TBD and UPDATED**
+
 ## Base Directories
 
 At the base of every member of the Pinpoint team’s directory, there should be 6 directories:
 
-1. **[Pinpoint Handbook](###)** -- a collection of documents about how we do things at Pinpoint, which anyone can comment on
+1. **[Pinpoint Handbook](https://github.com/pinpt/handbook)** -- a collection of documents about how we do things at Pinpoint, which anyone can comment on
 
 2. **Active Projects** -- All project folders will be shared globally in this folder
 
