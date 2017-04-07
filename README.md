@@ -57,14 +57,14 @@ Product @ Pinpoint
 * [Product Manifesto](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/product-manifesto.md)
 
 ## Corporate Benefits
-*[Continuing Education](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/continuing-education.md)
-*[Healthcare and Disability Insurance](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/healthcare-disability-insurance.md)
-*[Holiday List](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/holiday-list.md)
-*[New Parent Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/new-parent-leave.md)
-*[Other Protected Absences](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/other-protected-absences.md)
-*[Referral Bonus](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/referral-bonus.md)
-*[Sabbatical](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/sabbatical.md)
-*[Vacation and Sick Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/vacation-sick-leave.md)
+* [Continuing Education](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/continuing-education.md)
+* [Healthcare and Disability Insurance](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/healthcare-disability-insurance.md)
+* [Holiday List](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/holiday-list.md)
+* [New Parent Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/new-parent-leave.md)
+* [Other Protected Absences](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/other-protected-absences.md)
+* [Referral Bonus](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/referral-bonus.md)
+* [Sabbatical](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/sabbatical.md)
+* [Vacation and Sick Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/vacation-sick-leave.md)
 
 ## Operations Documents
 * [Tools We Use](http://)
