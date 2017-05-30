@@ -13,7 +13,7 @@ Feel free to use this repository for your own needs, fork it, share it, and even
 
 Here's to making our company as good as the products we sell, if not better.
 
-— [John](http://john.do/cv)
+— [John](mailto:john@pinpt.co)
 
 Product @ Pinpoint
 
