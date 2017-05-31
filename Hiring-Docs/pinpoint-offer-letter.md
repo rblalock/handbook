@@ -1,3 +1,5 @@
+--- CURRENTLY NOT UPDATED... STAY TUNED... --- 
+
 Welcome to Pinpoint, **FIRST_NAME**!
 
 We are excited to extend an official offer for you to join the Pinpoint team as **a/the TITLE**. This offer letter will go over the basics of working at Pinpoint, but there are a lot more details in our [Employee Handbook](https://github.com/Pinpoint/handbook). If you have any questions that aren’t in this letter or the handbook, please let me know.

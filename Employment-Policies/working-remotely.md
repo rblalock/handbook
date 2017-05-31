@@ -1,6 +1,10 @@
 # Working Remotely
 
-**TBD! We don't have a dedicated office quite yet... so this is just drafting material...**
+--- Currently we do not have a physical home office so the following does not currently apply... ---
+
+If you're on the team right now it means we fully trust you to do a kickass job, regardless of where you are physically. :fire: :bomb: :thumbsup:
+
+**DRAFT for the Future...**
 
 ## Scope
 

@@ -1,5 +1,7 @@
 # Pinpoint Observed Holiday List for 2017
 
+If you have any questions feel free to drop them in Slack in #OrgDev.
+
 <table>
   <tr>
     <td>New Year’s Day</td>

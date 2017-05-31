@@ -2,6 +2,8 @@
 
 One of Pinpoint’s [core values](https://github.com/pinpt/handbook/blob/master/our-values.md) is "Continuous Improvement,” so it’s important that we support our employees’ efforts to learn, grow, and improve. These are some of the key benefits of working at Pinpoint, and are central to our company culture.
 
+--- WE HAVE NOT IMPLEMENTED THE FOLLOWING YET... STAY TUNED... ---
+
 ## Learning Budget
 
 Every employee has a company budget to support any learning activity that they want to pursue related to the work they do at Pinpoint. This doesn’t need to be a class explicitly linked to their current role, but it should help them improve a skill that will be useful for them at Pinpoint. Each employee has an annual budget of $4,000 which can be spent towards program fees/tuition, tickets, flights, and hotels for industry conferences, classes, mentorship programs, books, programs, videos, or other places that they feel will provide valuable learning experiences. 

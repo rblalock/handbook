@@ -48,4 +48,4 @@ These equity grants are larger than industry standard, but also vest over a long
 
 At Pinpoint, we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave Pinpoint before the 6 years, they will still own more of Pinpoint than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
 
-All new employees should also check out our [Guide to Your Equity](hhttps://github.com/pinpt/handbook/blob/master/Hiring-Docs/guide-to-your-equity.md), which walks through the nuances of owning Pinpoint stock options.
+All new employees should also check out our [Guide to Your Equity](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/guide-to-your-equity.md), which walks through the nuances of owning Pinpoint stock options.

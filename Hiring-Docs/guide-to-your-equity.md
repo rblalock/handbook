@@ -1,12 +1,14 @@
 # Guide to Your Equity
 
-**TBD! This is just a draft and is NOT accurate**
+--- THIS IS NOT UPDATED YET... STAY TUNED... ---
 
 There are currently **4,662,658** shares of Pinpoint common stock outstanding.
 
 Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=0Bwj0rVaUQUXPaXREcklsZ0xuNTA). Any employee with questions about the report, our share price, or valuation should ask B.
 
-**This guide is meant to help you understand the piece of Pinpoint that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
+**This guide is meant to help you understand the piece of Pinpoint that you’re going to own!** 
+
+Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
 Owning stock in Pinpoint gives you a stake in our success. As Pinpoint grows and increases in value, you will own a piece of that growth and increased value. Pinpoint is pretty small today, but if things go well, your stock could be worth many times more. However, you are gambling with this portion of your compensation -- if Pinpoint decreases in value, then your options won’t be worth anything.
 
@@ -74,7 +76,7 @@ When Pinpoint raises outside capital, investors will buy a form of Preferred Sto
 
 ## Outstanding Convertible Notes
 
-Pinpoint has raised $1,858,555 to date, all as convertible notes.
+Pinpoint has raised $X,XXX,XXX to date, all as convertible notes.
 
 A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount. The discount rewards the initial investors for investing in the company early, and usually comes in 2 forms: a discount and a cap.
 
@@ -82,8 +84,8 @@ The discount is a fixed percentage (20% for Pinpoint) that the investors will ge
 
 For Pinpoint’s fundraise:
 
-$175,000 was raised on notes with a cap of $5m
+$XXX,XXX was raised on notes with a cap of $5m
 
-$1,683,555 was raised on notes with a cap of $6m
+$X,XXX,XXX was raised on notes with a cap of $6m
 
-Anyone is always welcome to ask B, our CEO, any questions they have about their options, Pinpoint’s fundraising, or anything else related to equity at Pinpoint. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
+Anyone is always welcome to ask Jeff, our CEO, any questions they have about their options, Pinpoint’s fundraising, or anything else related to equity at Pinpoint. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
