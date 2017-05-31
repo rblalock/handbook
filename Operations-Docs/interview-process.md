@@ -1,5 +1,7 @@
 # Interview Process
 
+--- TBD... STAY TUNED... --- 
+
 Every candidate should go through three interviews that help us find the right person for the job.
 
 Before they are interviewed, the candidate should show some relevant work that will help give us an initial screen and something to talk about in the first coffee interview. They should also get a blurb about Pinpoint, the position, and our values so that they can self-screen if our culture doesn’t match the kind of company they want to work for. **Values in particular should be emphasized here so that they understand how important they are to the Pinpoint team and make sure they align.**

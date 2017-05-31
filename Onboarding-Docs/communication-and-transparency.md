@@ -1,6 +1,6 @@
 # Communication and Transparency
 
-**TBD and Updated. This is NOT Final**
+--- TB UPDATED... STAY TUNED... ---
 
 The best way for you to make a decision about what’s good for Pinpoint is to have all of the information about what’s going on at Pinpoint. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Pinpoint that we’re not actively involved with.
 

@@ -1,6 +1,6 @@
 # Onboarding
 
-**TBD AND UPDATED!!!**
+--- TB UPDATED... PLEASE PING YOUR HIRING MANAGER (Jeff, Nolan, John) for exact details... --- 
 
 This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Pinpoint, check out [Your First Day at Pinpoint](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/welcome-to-pinpoint.md).
 

@@ -1,5 +1,7 @@
 # Sourcing Candidates
 
+--- NOT CURRENTLY IMPLEMENTED. STAY TUNED... ---
+
 Building a great team starts with attracting great candidates, and there are three channels we can use to attract candidates: referrals, outbound recruiting, and inbound interest.  We should keep all three channels open, but be thoughtful about the biases that result from each channel so that we can make them work for our team-building goals and values.
 
 ## Referrals

@@ -1,6 +1,6 @@
 # Welcome to Pinpoint
 
-**TBD AND UPDATED**
+--- TB UPDATED... STAY TUNED... ---
 
 Hey! Welcome to the Pinpoint team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Pinpoint works and how we work together.
 
