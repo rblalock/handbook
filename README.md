@@ -42,7 +42,6 @@ Product @ Pinpoint
 * [Working Remotely](https://github.com/pinpt/handbook/blob/master/Employment-Policies/working-remotely.md)
 
 ## Hiring Documents
-* [Acknowledgement of Receipt](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/acknowledgement-of-receipt-of-changes.md)
 * [Pinpoint Offer Letter](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/pinpoint-offer-letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/employee-proprietary-information-inventions-assignment-agreement.md)
 * [Guide to Your Equity](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/guide-to-your-equity.md)
@@ -54,7 +53,6 @@ Product @ Pinpoint
 * [Communication and Transparency](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/communication-and-transparency.md)
 * [Objectives and Key Results](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/objectives-and-key-results.md)
 * [One on Ones](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/one-on-ones.md)
-* [Product Manifesto](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/product-manifesto.md)
 
 ## Corporate Benefits
 * [Continuing Education](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/continuing-education.md)
