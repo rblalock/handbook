@@ -21,35 +21,3 @@ Print Name: ________________________
 Signature: ________________________
 
 ```
-
-***
-
-
-## Contents of the Pinpoint Employee Handbook
-This handbook is hosted online at [github.com/pinpt/handbook](https://github.com/pinpt/handbook), along with several other policies. The *Pinpoint Employee Handbook* consists of only the policies listed below.
-
-### Introduction
-* [Handbook Introduction](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/handbook-introduction.md)
-* [Our Mission](https://github.com/pinpt/handbook/blob/master/mission-statement.md)
-* [Our Values](https://github.com/pinpt/handbook/blob/master/our-values.md)
-
-### Employment Policies
-* [Equal Opportunity Employment](https://github.com/pinpt/handbook/blob/master/Employment-Policies/equal-opportunity-employment.md)
-* [At-Will Employment](https://github.com/pinpt/handbook/blob/master/Employment-Policies/at-will-employment.md)
-* [Salary and Equity Compensation](https://github.com/pinpt/handbook/blob/master/Employment-Policies/salary-equity-compensation.md)
-* [Code of Conduct in the Community](https://github.com/pinpt/handbook/blob/master/Employment-Policies/code-of-conduct-community.md)
-* [Complaint Policy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/complaint-policy.md)
-* [Drug and Alcohol Policy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/drug-alcohol-policy.md)
-* [Employee Privacy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/employee-privacy.md)
-* [Working Remotely](https://github.com/pinpt/handbook/blob/master/Employment-Policies/working-remotely.md)
-
-### Corporate Benefits
-*[Continuing Education](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/continuing-education.md)
-*[Healthcare and Disability Insurance](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/healthcare-disability-insurance.md)
-*[Holiday List](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/holiday-list.md)
-*[New Parent Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/new-parent-leave.md)
-*[Other Protected Absences](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/other-protected-absences.md)
-*[Referral Bonus](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/referral-bonus.md)
-*[Sabbatical](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/sabbatical.md)
-*[Vacation and Sick Leave](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/vacation-sick-leave.md)
-
