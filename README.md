@@ -19,11 +19,11 @@ Product @ Pinpoint
 
 ***
 
-#Sections
+# Sections
 
 Want to get to know us a bit better? Look no further...!
 
-1. Introduction (Mission, Values, Staff)
+1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) (Mission, Values, Staff)
 
 
 
