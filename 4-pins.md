@@ -1,4 +1,4 @@
-# Pins
+# Team Pins
 
 We've started a small tradition here at Pinpoint where we celebrate a few milestones that we, as a team, get to experience together. These might be yearly anniversaries, a significant customer sale (or other fiscally-significant events), and/or team-centric celebrations.
 
