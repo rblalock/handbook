@@ -1,4 +1,4 @@
-# Welcome to Pinpoint
+## Welcome to Pinpoint
 
 --- TB UPDATED... STAY TUNED... ---
 

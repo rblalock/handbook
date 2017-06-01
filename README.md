@@ -24,23 +24,14 @@ Product @ Pinpoint
 Want to get to know us a bit better? Look no further! Have a question? Ask it in **#OrgDev** in Slack!
 
 1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) (Mission, Values, Staff)
-2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/1-benefits.md)
-
+2. [Onboarding]()
+2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md)
+3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md)
 
 ## Work @ Pinpoint
 * [Head of Marketing]()
 * [Head of Sales]()
 * [Senior Engineer]()
-
-## Employment Policies
-* [Equal Opportunity Employment](https://github.com/pinpt/handbook/blob/master/Employment-Policies/equal-opportunity-employment.md)
-* [At-Will Employment](https://github.com/pinpt/handbook/blob/master/Employment-Policies/at-will-employment.md)
-* [Salary and Equity Compensation](https://github.com/pinpt/handbook/blob/master/Employment-Policies/salary-equity-compensation.md)
-* [Code of Conduct in the Community](https://github.com/pinpt/handbook/blob/master/Employment-Policies/code-of-conduct-community.md)
-* [Complaint Policy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/complaint-policy.md)
-* [Drug and Alcohol Policy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/drug-alcohol-policy.md)
-* [Employee Privacy](https://github.com/pinpt/handbook/blob/master/Employment-Policies/employee-privacy.md)
-* [Working Remotely](https://github.com/pinpt/handbook/blob/master/Employment-Policies/working-remotely.md)
 
 ## Hiring Documents
 * [Pinpoint Offer Letter](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/pinpoint-offer-letter.md)
