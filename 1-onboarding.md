@@ -26,21 +26,3 @@ Spend time saying "Hi" to your team via Slack or around the office. We're still 
 If we can, we'll go out to lunch - make sure we're aware of your food preferences or restrictions!
 
 Remember, there's a lot of work to be done but it doesn't have to be completed on the first day! This is going to be great and we're so glad you've chosen to be part of the Pinpoint story!
-
-## Direct Reports
-
-Everyone who works at Pinpoint should report to @Jeff, @Nolan, or @John. The goal of this relationship is to provide support and guidance to the employee -- this is the person they will talk to about their goals, meet with regularly, and go to first with questions. We are not doing any official performance reviews yet, but this is also the relationship where employees will get feedback on how they are doing and areas where they can improve.
-
-These relationships are one to one and are not meant to divide the company into teams. Though we certainly have distinct business functions, we should all try to operate as a single unit wherever possible. At this size, Pinpoint’s organization doesn’t need to go any deeper than this first level, so everyone should feel as if they are on even footing.
-
-## One on Ones
-
-Every week, every member of the Pinpoint team meets with their manager in an open ended meeting that lasts at least thirty minutes. The agenda for the one on one is set by the employee and its primary intention is to build a trusting relationship. 
-
-This is not a status check-up or performance evaluation, it’s dedicated time where the manager is available to hear what each member of their team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
-
-Trust is the fundamental currency of teams, and these meetings are the easiest place to earn trust. Managers are making time for every direct report, every week, so that they build an individual relationship with each one and establish a reliable channel for communication.
-
-We're going to do our best to schedule a recurring calendar event at the same time every week. The schedule is meant to be regular but not rigid and we can all be accomodating as needed.
-
-The agenda can vary widely but this is the team member's meeting, so they should have ultimate control. It's a safe place to listen and to understand about problems, blockers, and to talk through solutions. It's also a place to grow, to receive feedback, and to dig deeper relationally, on both sides of the table!
