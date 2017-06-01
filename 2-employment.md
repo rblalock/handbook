@@ -1,3 +1,5 @@
+The following you'll find more information regarding your employment at Pinpoint! Like always, if you have any questions, feel free to ping @John on Slack or share your thoughts in **#OrgDev**!
+
 ## At-Will Employment Policy
 
 Your employment with the Pinpoint is "AT WILL".  This means that you are free to terminate your employment at any time, with or without cause and the company has a right to terminate your employment at any time as well, with or without cause.  
