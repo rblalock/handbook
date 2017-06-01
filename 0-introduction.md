@@ -4,8 +4,6 @@ We're building a platform that drives continuous improvement into a company's so
 
 Consequently, our mission is simple: **Help companies build better software**.
 
-This is aligned directly with [Our Values](https://github.com/pinpt/handbook/blob/master/our-values.md).
-
 ## Our Values
 
 Our values are simple and straight-forward, liberally taken from Jeff and Nolan's previous venture which worked out really well (see Axway acquisition [here](https://techcrunch.com/2016/01/17/axway-acquires-mobile-app-development-platform-appcelerator/)).
