@@ -21,7 +21,7 @@ Product @ Pinpoint
 
 # Sections
 
-Want to get to know us a bit better? Look no further! Have a question? Ask it in **#OrgDev** in Slack!
+Want to get to know us a bit better? Look no further! Have a question? Ask it in **#OrgDev** in Slack or chat directly about this document in **#handbook**.
 
 1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) (Mission, Values, Staff)
 2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) (Getting Started @ Pinpoint)
