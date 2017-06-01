@@ -1,64 +1,46 @@
 ## Welcome to Pinpoint
 
---- TB UPDATED... STAY TUNED... ---
+Hey! Welcome to the Pinpoint team, we’re so excited to have you with us! We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Pinpoint works and how we work together.
 
-Hey! Welcome to the Pinpoint team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Pinpoint works and how we work together.
+To start, you're going to want to make sure you review [Our Mission and Values](https://github.com/pinpt/handbook/blob/master/0-introduction.md) and we're sure you going to want to know all about the [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md). 
 
-At Pinpoint, we’re trying to build an inclusive and value-driven organization, so you’ll find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please let us know (or just write comments in the documents -- you should already have comment access to everything in the Pinpoint handbook!).  
+You'll probably have questions so feel free to ping anyone on the team, drop a note in Slack {**#OrgDev**) or if you need anything specific, ping @John!
 
-## Your First Day
+#### Your First Day
 
-Hopefully by the time you’re actually starting at Pinpoint, you’ve already finished filling out the paperwork and you’ve showed up to a desk with a new computer and the accessories that fit your work-style. Today is all about getting you set up and making sure you’re ready to go.
+At this point you should have been fully onboarded via Gusto (review [benefits](https://github.com/pinpt/handbook/blob/master/2-benefits.md)) and you should provide your documents for the I-9 filing.
 
-**The goal for today is for you to publish _something_ live.** If you’re a designer, that could be a color change for a button. If you’re a developer, it might be fixing a missing semicolon. It could be a tweet from the Pinpoint account or a blog post, a support response or an infographic. Whatever you’ll be doing at Pinpoint, we want you to ship something small today.
+If you need any gear please ping one of the founders and we'll get it sorted! We want you to feel comfortable and have everything you need to be a success!
 
-Otherwise, take some time to meet everyone you’ll be working with, and set things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
+We currently use a number of different services to get our work done, including:
 
-We’ll also do a team lunch today so that we have a little dedicated time to talk with everyone. If you have any food preferences or restrictions that we should consider in choosing a lunch spot, let us know.
+1. Google Apps for Email
+2. Slack for Communication
+3. Gusto for Payroll
+4. GitHub for Development
 
-We want you to stick around. Your successes here will be your team’s successes, and your team’s successes will be yours. We want you to build a career here, so don’t feel any pressure to cram everything into today -- you’ll have plenty of time to get things right.
+It's possible that you've already been granted access but if you're missing something critical to your work then please make sure to get access today! The first day can be overwhelming so we want to make sure you have everything you need, especially the right tools.
 
-## The End of Your First Day
+Spend time saying "Hi" to your team via Slack or around the office. We're still very small so you'll get to know everyone pretty quickly and **we believe that the entire team is responsible for successful onboarding** so we're here to help and support you!
 
-At the end of your first day, you get to choose how you want to celebrate with your new team. You have three options:
+If we can, we'll go out to lunch - make sure we're aware of your food preferences or restrictions!
 
-* We can all do a group high five and cheer for you
+Remember, there's a lot of work to be done but it doesn't have to be completed on the first day! This is going to be great and we're so glad you've chosen to be part of the Pinpoint story!
 
-* We can go out for a drink or dessert nearby together
+## Direct Reports
 
-* We can all go to dinner somewhere nearby
+Everyone who works at Pinpoint should report to @Jeff, @Nolan, or @John. The goal of this relationship is to provide support and guidance to the employee -- this is the person they will talk to about their goals, meet with regularly, and go to first with questions. We are not doing any official performance reviews yet, but this is also the relationship where employees will get feedback on how they are doing and areas where they can improve.
 
-The first day can be intense, so if you’re feeling drained we can all cheer together and send you home to get ready for day number two. If you’re feeling energized and pumped to be with the team, you can choose one of the more involved options. We just want to celebrate with you however you feel comfortable!
+These relationships are one to one and are not meant to divide the company into teams. Though we certainly have distinct business functions, we should all try to operate as a single unit wherever possible. At this size, Pinpoint’s organization doesn’t need to go any deeper than this first level, so everyone should feel as if they are on even footing.
 
-## The Basics about Pinpoint
+## One on Ones
 
-**Pinpoint is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Pinpoint and they guide the decisions we make here. You can read more about the [Pinpoint Values](https://github.com/pinpt/handbook/blob/master/our-values.md), but the short versions are:
+Every week, every member of the Pinpoint team meets with their manager in an open ended meeting that lasts at least thirty minutes. The agenda for the one on one is set by the employee and its primary intention is to build a trusting relationship. 
 
-* Humility
+This is not a status check-up or performance evaluation, it’s dedicated time where the manager is available to hear what each member of their team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
 
-* Continuous Improvement
+Trust is the fundamental currency of teams, and these meetings are the easiest place to earn trust. Managers are making time for every direct report, every week, so that they build an individual relationship with each one and establish a reliable channel for communication.
 
-* Customer Success
+We're going to do our best to schedule a recurring calendar event at the same time every week. The schedule is meant to be regular but not rigid and we can all be accomodating as needed.
 
-
-**Pinpoint isn’t a normal tech startup company.** 
-
-...
-
-**Our ambition is huge.** 
-
-We want to build the..
-
-## The Pinpoint Team, Hours, and Office
-
-For now, Pinpoint operates as a single team where everyone is working towards company-level goals. Since we’re still small, there’s not too much overhead in keeping up with everyone. There are still engineering-specific meetings, and marketing conversations that happen separately. But when we set our goals, we all think directly about how we contribute to the company goals. You’ll get to work with everyone at Pinpoint in some capacity, and dip your fingers into all different kinds of thinking.
-
-We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
-
-You should expect a typical workweek at Pinpoint to be 45-50 hours. Most people show up between 9 and 10 and leave between 6 and 7. We don’t want folks to work weekends or late nights, but a lot of us host or go to events in the evening. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you.
-
-We try to make the office atmosphere welcoming and respectful for people of all different backgrounds. This is an ongoing process of negotiating and compromising as we share space, and depends on good communication. If there are specific things you like or want to change, let us know. We’re always getting better :)
-
-## The Future
-
-Pinpoint is a small company that is changing and improving rapidly. Today is about welcoming you and helping you join our team, but soon we’ll need your help growing and learning. Pinpoint will be a very different company a year from today, and it’s hard to imagine what it will be like in 5 or 10. You will have a hand in building that company, and we’re so excited to have your help.
+The agenda can vary widely but this is the team member's meeting, so they should have ultimate control. It's a safe place to listen and to understand about problems, blockers, and to talk through solutions. It's also a place to grow, to receive feedback, and to dig deeper relationally, on both sides of the table!

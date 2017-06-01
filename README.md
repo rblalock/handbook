@@ -24,7 +24,7 @@ Product @ Pinpoint
 Want to get to know us a bit better? Look no further! Have a question? Ask it in **#OrgDev** in Slack!
 
 1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) (Mission, Values, Staff)
-2. [Onboarding]()
+2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) (Getting Started @ Pinpoint)
 2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md)
 3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md)
 
@@ -32,26 +32,3 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 * [Head of Marketing]()
 * [Head of Sales]()
 * [Senior Engineer]()
-
-## Hiring Documents
-* [Pinpoint Offer Letter](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/pinpoint-offer-letter.md)
-* [Employee Proprietary Information and Inventions Agreement](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/employee-proprietary-information-inventions-assignment-agreement.md)
-* [Guide to Your Equity](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/guide-to-your-equity.md)
-* [Handbook Introduction](https://github.com/pinpt/handbook/blob/master/Hiring-Docs/handbook-introduction.md)
-
-## Onboarding Documents
-* [Welcome to Pinpoint](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/welcome-to-pinpoint.md)
-* [Direct Reports](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/direct-reports.md)
-* [Communication and Transparency](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/communication-and-transparency.md)
-* [Objectives and Key Results](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/objectives-and-key-results.md)
-* [One on Ones](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/one-on-ones.md)
-
-## Operations Documents
-* [Tools We Use](http://)
-* [Effective Meetings](https://github.com/pinpt/handbook/blob/master/Operations-Docs/effective-meetings.md)
-* [Sourcing Candidates](https://github.com/pinpt/handbook/blob/master/Operations-Docs/sourcing-candidates.md)
-* [Interview Process](https://github.com/pinpt/handbook/blob/master/Operations-Docs/interview-process.md)
-* [Budgeting](https://github.com/pinpt/handbook/blob/master/Operations-Docs/budgeting.md)
-* [Hack Weeks](https://github.com/pinpt/handbook/blob/master/Operations-Docs/hack-weeks.md)
-* [Onboarding](https://github.com/pinpt/handbook/blob/master/Operations-Docs/onboarding.md)
-* [Sharing Files](https://github.com/pinpt/handbook/blob/master/Operations-Docs/sharing-files.md)

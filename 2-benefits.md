@@ -8,7 +8,13 @@ We offer medical, dental, and vision coverage at Pinpoint for employees and thei
 - **Dental:** Principal Dental Plan 4 | [PDF Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_dental_plan_4.pdf) - Pinpoint covers 95% of the Premium.
 - **Vision:** Principal Vision Plan 2 | [PDF Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_vision_plan_2.pdf) - Pinpoint covers 99% of the Premium.
 
-You may review your benefits through [Gusto](http://gusto.com) at any time or ping @John on Slack.
+You may review your benefits through [Gusto](http://gusto.com) at any time or ping @John on Slack. If eligible, you will have the opportunity to enroll during the proper enrollment period.
+
+## Payroll (i.e. Getting Paid)
+
+We currently use Gusto as well for Payroll and part of your onboarding process will allow you to setup banking and hook up any specics necessary. We'll also collect any hiring documents (e.g. W-4, I-9, Direct Deposit Authorization) and do the State and Federal filings for you.
+
+If we have any questions or need anything specific we will ping you!
 
 ## Pinpoint Observed Holiday List for 2017
 
