@@ -7,7 +7,7 @@ But we know, after having built a few companies previously, that the consistent 
 
 In short, we want to walk-the-walk and not just talk-the-talk when it comes to organizational health!
 
-Consequently, this WIP ("Work in Progress") repository will contain most (if not all) of the current organizational policies that we use at Pinpoint. It's not perfect just as the founders of Pinpoint are not perfect. Rather, we want it to be an open dialogue and representation of who we are today and who we want to be in the future. It's the starting block rather than the finish line.
+Consequently, this WIP ("Work in Progress") repository will contain most (but certaintly not all) of the current organizational policies that we use at Pinpoint. It's not perfect just as the founders of Pinpoint are not perfect. Rather, we want it to be an open dialogue and representation of who we are today and who we want to be in the future. It's the starting block rather than the finish line.
 
 Feel free to use this repository for your own needs, fork it, share it, and even consider making a pull request if you see something that doesn't look right. We welcome all feedback and suggestions so the more the merrier!
 
@@ -20,11 +20,36 @@ Product @ Pinpoint
 ***
 
 
-## Introduction
-* [Our Mission](https://github.com/pinpt/handbook/blob/master/mission-statement.md)
-* [Our Values](https://github.com/pinpt/handbook/blob/master/our-values.md)
-* [Our Story](http://)
-* [Our Founders](http://)
+## Mission Statement
+
+We're building a platform that drives continuous improvement into a company's software delivery efforts. 
+
+Consequently, our mission is simple: **Help companies build better software**.
+
+## Our Values
+
+Our values are simple and straight-forward, liberally taken from Jeff and Nolan's previous venture which worked out really well (see Axway acquisition [here](https://techcrunch.com/2016/01/17/axway-acquires-mobile-app-development-platform-appcelerator/)).
+
+#### 1. Humility
+
+Stay humble as there is always room to grow.
+
+#### 2. Continuous Improvement
+
+Measure, iterate, and execute. "You can't improve what you don't measure." - [Jeff](https://www.recode.net/2016/8/5/12377644/technology-startup-investment-advice-scale-slower)
+
+#### 3. Customer Success
+
+This value drives everything we do: Help our customer succeed.
+
+## Our Story
+
+To be filled in...
+
+## Our Founders
+
+To be filled in...
+
 
 ## Work @ Pinpoint
 * [Head of Marketing]()
