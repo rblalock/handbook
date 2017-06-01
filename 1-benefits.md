@@ -90,15 +90,15 @@ In California, State Disability Insurance and Paid Family Leave programs will pa
 
 ## Other Protected Absences
 
-### Pregnancy Disability Leave
+#### Pregnancy Disability Leave
 
 California law entitles a childbearing employee to take Pregnancy Disability Leave (PDL) if they are disabled because of pregnancy, childbirth, or a related medical condition, including prenatal care and severe morning sickness. The length of leave will be up to 4 months or the equivalent number of days the employee would normally work within the 4-month period. Intermittent leave or a reduced work schedule may be taken. Employees should give notice to the founder to whom they report.  
 
-### Bereavement Leave
+#### Bereavement Leave
 
 An employee who wishes to take time off due to the death of an immediate family member should notify the founder to whom they report. Paid bereavement leave will be granted up to three consecutive days for the death of a family member including the following: Spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, or sibling.
 
-### Jury Duty or Witness Summons
+#### Jury Duty or Witness Summons
 
 Employees will be granted up to 3 days paid time to serve on a jury or as a witness. In order to minimize disruption in the office, employees are requested to check in with the founder to whom they report when jury duty or witness testimony lasts less than four hours per day and may be requested to work remotely.  A copy of the jury duty or witness summons and all associated documents must be presented to the founder to whom you report as soon as reasonably possible.
 
@@ -142,7 +142,7 @@ One of Pinpoint’s [core values](https://github.com/pinpt/handbook/blob/master/
 
 --- WE HAVE NOT IMPLEMENTED THE FOLLOWING YET... STAY TUNED... ---
 
-### Learning Budget
+#### Learning Budget
 
 Every employee has a company budget to support any learning activity that they want to pursue related to the work they do at Pinpoint. This doesn’t need to be a class explicitly linked to their current role, but it should help them improve a skill that will be useful for them at Pinpoint. Each employee has an annual budget of $4,000 which can be spent towards program fees/tuition, tickets, flights, and hotels for industry conferences, classes, mentorship programs, books, programs, videos, or other places that they feel will provide valuable learning experiences. 
 
@@ -150,11 +150,11 @@ These expenses should be discussed in one-on-ones and approved by the founder to
 
 We hire people that we trust and so we don't intend to time-track these Continuing Education projects but be cognizant if these activities impact your current role and responsibilities! We imagine you'll be in constant conversation with your direct report so make sure to chat about it!
 
-### Mentorship
+#### Mentorship
 
 Pinpoint understands the value of mentorship.  We will work with every employee to make sure they have a mentor in their field outside of the company who they can regularly meet with and get advice. Mentorship goals will be discussed in [one-on-ones](https://github.com/pinpt/handbook/blob/master/Onboarding-Docs/one-on-ones.md), possible mentors from our industry or networks will be chosen, and everyone on the team will help make and support the connection with the mentor. Employees are also encouraged to meet with their mentor during normal work hours. In the future, we will explore a more comprehensive resource or platform for helping employees find mentors.
 
-### Speaker Support
+#### Speaker Support
 
 It makes Pinpoint look great when our employees speak at industry conferences, so we love to support Pinpoint employees who are invited to speak to their peers about their area of expertise. For each event, Pinpoint will pay for the flights and hotel up to $1,000 dollars, and employees are each eligible for this benefit 4 times per year (this budget is separate from the learning budget). Employees should get approval from the founder they report to about which conferences are appropriate to speak at, and to make sure that conference dates don’t interfere with important company dates.
 
