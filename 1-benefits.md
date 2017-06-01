@@ -4,9 +4,9 @@ Pinpoint’s priorities with benefits are wellness and education, so it’s impo
 
 We offer medical, dental, and vision coverage at Pinpoint for employees and their dependents. 
 
-- Health Benefits: Anthem Blue Cross of California [Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2017/anthem_platinum_ppo_20_10_4000_2f9q_2017.pdf) - Pinpoint covers 99% of the Premium.
-- Dental: Principal Dental Plan 4 [Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_dental_plan_4.pdf) - Pinpoint covers 95% of the Premium.
-- Vision: Principal Vision Plan 2 [Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_vision_plan_2.pdf) - Pinpoint covers 99% of the Premium.
+- **Health Benefits:** Anthem Blue Cross of California [Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2017/anthem_platinum_ppo_20_10_4000_2f9q_2017.pdf) - Pinpoint covers 99% of the Premium.
+- **Dental:** Principal Dental Plan 4 [Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_dental_plan_4.pdf) - Pinpoint covers 95% of the Premium.
+- **Vision:** Principal Vision Plan 2 [Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_vision_plan_2.pdf) - Pinpoint covers 99% of the Premium.
 
 You may review your benefits through [Gusto](http://gusto.com) at any time or ping @John on Slack.
 
@@ -70,7 +70,7 @@ If a holiday falls on a weekend, we’ll let you know when the holiday will be o
 
 ## Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at Pinpoint, so in addition to the recognized [Holiday List](https://github.com/pinpt/handbook/blob/master/Corporate-Benefits/holiday-list.md), Pinpoint offers 120 hours each year (3 weeks or 15 business days) of paid vacation every year that accrues 1.25 of a day per month of work starting from your first employment date. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
+Taking time off and recharging is critical to doing your best work at Pinpoint, so in addition to the recognized [Holiday List](https://github.com/pinpt/handbook/blob/master/1-benefits.md#pinpoint-observed-holiday-list-for-2017), Pinpoint offers 120 hours each year (3 weeks or 15 business days) of paid vacation every year that accrues 1.25 of a day per month of work starting from your first employment date. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
 
 Employees also accrue the same for sick leave, 120 hours each year (3 weeks or 15 business days).
 
@@ -102,7 +102,7 @@ An employee who wishes to take time off due to the death of an immediate family 
 
 Employees will be granted up to 3 days paid time to serve on a jury or as a witness. In order to minimize disruption in the office, employees are requested to check in with the founder to whom they report when jury duty or witness testimony lasts less than four hours per day and may be requested to work remotely.  A copy of the jury duty or witness summons and all associated documents must be presented to the founder to whom you report as soon as reasonably possible.
 
-### Other Leaves of Absence
+#### Other Leaves of Absence
 
 Pinpoint will grant leaves of absence for other activities as required by law. Unless otherwise required by law, employees will not be paid for such leaves of absence.  
 
