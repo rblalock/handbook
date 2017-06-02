@@ -4,7 +4,7 @@ Pinpoint’s priorities with benefits are wellness and education, so it’s impo
 
 We offer medical, dental, and vision coverage at Pinpoint for employees and their dependents. 
 
-- **Health Benefits:** Anthem Blue Cross of California | [Gold Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2017/anthem_ca_gold_ppo_20_30_6500_2exb_2017.pdf) / [Platinum Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2017/anthem_platinum_ppo_20_10_4000_2f9q_2017.pdf) - Pinpoint covers 99% of the Gold Premium.
+- **Health Benefits:** Anthem Blue Cross of CA | [Gold](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2017/anthem_ca_gold_ppo_20_30_6500_2exb_2017.pdf) / [Platinum](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2017/anthem_platinum_ppo_20_10_4000_2f9q_2017.pdf) - Pinpoint covers 99% of the Gold Premium.
 - **Dental:** Principal Dental Plan 4 | [PDF Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_dental_plan_4.pdf) - Pinpoint covers 95% of the Premium.
 - **Vision:** Principal Vision Plan 2 | [PDF Overview](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2016/principal_ca_principal_vision_plan_2.pdf) - Pinpoint covers 99% of the Premium.
 
