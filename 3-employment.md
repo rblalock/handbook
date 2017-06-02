@@ -52,11 +52,11 @@ Currently, Pinpoint is too small to have an internal group or department that ca
 
 
 
+
+
 ## Working Remotely
 
---- Currently we do not have a physical home office so the following does not currently apply... ---
-
-If you're on the team right now it means we fully trust you to do a kickass job, regardless of where you are physically. :fire: :bomb: :thumbsup:
+Currently we do not have a physical home office! This means that we fully trust you to do a kickass job, regardless of where you are physically. :fire: :bomb: :thumbsup:
 
 
 
