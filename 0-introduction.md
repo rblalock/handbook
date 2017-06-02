@@ -6,7 +6,7 @@ Consequently, our mission is simple: **Help companies build better software**.
 
 ## Our Values
 
-Our values are simple and straight-forward, liberally taken from Jeff and Nolan's previous venture which worked out really well (see Axway acquisition [here](https://techcrunch.com/2016/01/17/axway-acquires-mobile-app-development-platform-appcelerator/)).
+Our values are simple and straight-forward, liberally taken from @Jeff and @Nolan's previous venture which worked out [nicely](https://techcrunch.com/2016/01/17/axway-acquires-mobile-app-development-platform-appcelerator/)).
 
 #### 1. Humility
 
@@ -18,7 +18,7 @@ Measure, iterate, and execute. "You can't improve what you don't measure." - [Je
 
 #### 3. Customer Success
 
-This value drives everything we do: Help our customer succeed.
+This value drives everything we do: Help our customer succeed. Consequently, we succeed when our customer's do.
 
 ## Our Story
 
