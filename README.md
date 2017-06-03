@@ -15,13 +15,13 @@ Here's to making our company as good as the products we sell, if not better.
 
 — [John](mailto:john@pinpt.co)
 
-Product @ Pinpoint
-
 ***
 
 # Sections
 
 Want to get to know us a bit better? Look no further! Have a question? Ask it in **#OrgDev** in Slack or chat directly about this document in **#handbook**.	
+
+## Table of Contents
 
 1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) (Mission, Values, Staff)
 2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) (Getting Started @ Pinpoint)
@@ -30,6 +30,9 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 4. [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md)
 
 ## Work @ Pinpoint
+
+A list of open roles that we're looking to fill. 
+
 * [Head of Marketing]()
 * [Head of Sales]()
 * [Senior Engineer]()
