@@ -8,7 +8,7 @@ You'll probably have questions so feel free to ping anyone on the team, drop a n
 
 #### Your First Day
 
-At this point you should have been fully onboarded via Gusto (review [benefits](https://github.com/pinpt/handbook/blob/master/2-benefits.md)) and you should provide your documents for the I-9 filing. If you are still having trouble, make sure to ping @John via Slack asap!
+At this point you should have been fully onboarded via Gusto (review [benefits](https://github.com/pinpt/handbook/blob/master/2-benefits.md)) and you should provide your documents for the I-9 filing. If you are still having trouble, make sure to ping @John via Slack asap! You should have also reviewed our [employment guidelines](https://github.com/pinpt/handbook/blob/master/3-employment.md) which may feel like a review but is still important.
 
 If you need any gear please ping one of the founders and we'll get it sorted! We want you to feel comfortable and have everything you need to be a success!
 
