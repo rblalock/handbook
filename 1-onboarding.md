@@ -6,6 +6,8 @@ To start, you're going to want to make sure you review [Our Mission and Values](
 
 You'll probably have questions so feel free to ping anyone on the team, drop a note in Slack {**#OrgDev**) or if you need anything specific, ping @John! Also, if you have comments and/or suggestions on this Handbook, please join #handbook in Slack and contribute!
 
+***
+
 #### Your First Day
 
 At this point you should have been fully onboarded via Gusto (review [benefits](https://github.com/pinpt/handbook/blob/master/2-benefits.md)) and you should provide your documents for the I-9 filing. If you are still having trouble, make sure to ping @John via Slack asap! You should have also reviewed our [employment guidelines](https://github.com/pinpt/handbook/blob/master/3-employment.md) which may feel like a review but is still important (and we'll continue to update it as our guidelines grow and improve)!
@@ -28,6 +30,8 @@ If we can, we'll go out to lunch - make sure we're aware of your food preference
 Remember, there's a lot of work to be done but it doesn't have to be completed on the first day! This is going to be great and we're so glad you've chosen to be part of the Pinpoint story!
 
 Finally, be on the lookout for possible "snail mail" to finalize any State or Federal requirements (we'll give you a heads-up, of course). This includes the [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md) as well!
+
+***
 
 #### Your First Week
 
