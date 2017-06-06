@@ -37,7 +37,7 @@ If you qualify for [Health Benefits](https://github.com/pinpt/handbook/blob/mast
 
 Also, you may feel inclined to share the news of Pinpoint via social media and we'd love you to do that! We do not have any policies or rules around social media use, by the way - use good judgment and feel free to ask anyone on the team about posting content pre-tweet/pre-status-update if you'd like.
 
-There are a few social networks that we're part of that we'd love for you to follow and even add publicly to your accounts:
+There are a few social networks that we're part of that we'd love for you to **follow** and even **add them** to your profiles! There is, of course, no pressure to do so.
 
 1. Twitter: [@WhatIsPinpoint](http://twitter.com/whatispinpoint)
 2. Facebook: [Pinpt](https://www.facebook.com/pinptco/)
@@ -48,4 +48,6 @@ There are a few social networks that we're part of that we'd love for you to fol
 7. Pinpoint Blog: [blog.pinpt.co](https://blog.pinpt.co/) (you can subscribe for updates)
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point!
+
+Oh, and one final thing while we're on the topic of blogs... we've written consistently about how we started putting the company and the product together, [almost from Day #1](https://blog.pinpt.co/build-better-software/). This isn't *required* reading but it could certainly give you a lot of context for where we've been and what we've been dreaming about since the beginning. Might be fun to read how far we've come.
 

@@ -31,4 +31,4 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 
 ## Work @ Pinpoint
 
-Right now, we're not hiring. :thumbsup::skin-tone-4: Stay tuned!
+Right now, we're not hiring. :thumbsup: Stay tuned!
