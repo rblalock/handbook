@@ -27,4 +27,25 @@ If we can, we'll go out to lunch - make sure we're aware of your food preference
 
 Remember, there's a lot of work to be done but it doesn't have to be completed on the first day! This is going to be great and we're so glad you've chosen to be part of the Pinpoint story!
 
-Finally, be on the lookout for possible "snail maiL" to finalize any State or Federal requirements (we'll give you a heads-up, of course). This includes the [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md) as well!
+Finally, be on the lookout for possible "snail mail" to finalize any State or Federal requirements (we'll give you a heads-up, of course). This includes the [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md) as well!
+
+#### Your First Week
+
+We want your first week to feel as comfortable as possible making sure that you have everything that you need to be successful. This most likely will include a handful of meetings with team and a ton of chatter via Slack, our current go-to communication system.
+
+If you qualify for [Health Benefits](https://github.com/pinpt/handbook/blob/master/2-benefits.md) then your enrollment period will start and you'll have only a few business days to make a decision - so sooner rather than later! Ping @John via Slack if you have any questions.
+
+Also, you may feel inclined to share the news of Pinpoint via social media and we'd love you to do that! We do not have any policies or rules around social media use, by the way - use good judgment and feel free to ask anyone on the team about posting content pre-tweet/pre-status-update if you'd like.
+
+There are a few social networks that we're part of that we'd love for you to follow and even add publicly to your accounts:
+
+1. Twitter: [@WhatIsPinpoint](http://twitter.com/whatispinpoint)
+2. Facebook: [Pinpt](https://www.facebook.com/pinptco/)
+3. Angel List: [@Pinpt](https://angel.co/pinpt)
+4. LinkedIn: [PinPT Inc](https://www.linkedin.com/company-beta/16164522/)
+5. Google+: [Pinpoint](https://plus.google.com/117342917449995386258)
+6. #EngOps Newsletter: [EngOps.is](http://engops.is/)
+7. Pinpoint Blog: [blog.pinpt.co](https://blog.pinpt.co/) (you can subscribe for updates)
+
+On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point!
+
