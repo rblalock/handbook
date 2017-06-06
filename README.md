@@ -31,8 +31,4 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 
 ## Work @ Pinpoint
 
-A list of open roles that we're looking to fill. 
-
-* [Head of Marketing]()
-* [Head of Sales]()
-* [Senior Engineer]()
+Right now, we're not hiring. :)
