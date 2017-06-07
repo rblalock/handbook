@@ -10,3 +10,4 @@ The first pin is "new beginnings," a blank terminal that represents all the hope
 
 ![New Beginnings](http://blog.pinpt.co/wp-content/uploads/2017/06/new-beginnings-pin.jpeg)
 
+...
