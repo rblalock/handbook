@@ -8,7 +8,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 ## Growing Culture
 
-...
+- [6 Things Remote Companies Must Do To Build Great Culture](https://www.invisionapp.com/blog/remote-company-culture/)
+- [Pinning Culture](https://blog.pinpt.co/pinning-culture/)
 
 ## Personal Development
 
@@ -22,3 +23,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 ...
 
+## Productivity
+
+- [7 Habits of Tech-Savvy Teams](https://themission.co/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
+- 
