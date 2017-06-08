@@ -44,12 +44,13 @@ Also, you may feel inclined to share the news of Pinpoint via social media and w
 There are a few social networks that we're part of that we'd love for you to **follow** and even **add them** to your profiles! There is, of course, no pressure to do so.
 
 1. Twitter: [@WhatIsPinpoint](http://twitter.com/whatispinpoint)
-2. Facebook: [Pinpt](https://www.facebook.com/pinptco/)
-3. Angel List: [@Pinpt](https://angel.co/pinpt)
-4. LinkedIn: [PinPT Inc](https://www.linkedin.com/company-beta/16164522/)
-5. Google+: [Pinpoint](https://plus.google.com/117342917449995386258)
-6. #EngOps Newsletter: [EngOps.is](http://engops.is/)
-7. Pinpoint Blog: [blog.pinpt.co](https://blog.pinpt.co/) (you can subscribe for updates)
+2. Facebook: [Pinptco](https://www.facebook.com/pinptco/)
+3. Instagram: [@Pinptco](https://www.instagram.com/pinptco/)
+4. Angel List: [@Pinpt](https://angel.co/pinpt)
+5. LinkedIn: [PinPT Inc](https://www.linkedin.com/company-beta/16164522/)
+6. Google+: [Pinpoint](https://plus.google.com/117342917449995386258)
+7. #EngOps Newsletter: [EngOps.is](http://engops.is/)
+8. Pinpoint Blog: [blog.pinpt.co](https://blog.pinpt.co/) (you can subscribe for updates)
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point!
 
