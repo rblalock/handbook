@@ -18,3 +18,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 ...
 
+## Working Remote
+
+...
+
