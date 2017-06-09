@@ -25,10 +25,10 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 
 1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) (Mission, Values, Staff)
 2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) (Getting Started @ Pinpoint)
-2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md)
-3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md)
-4. [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md)
-5. [PeopleOps Resources](https://github.com/pinpt/handbook/blob/master/5-resources.md)
+2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md) (A Few Goodies)
+3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md) (Must-Read)
+4. [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md) (A Little Intentional Culture)
+5. [PeopleOps Resources](https://github.com/pinpt/handbook/blob/master/5-resources.md) (A Curated List)
 
 ## Work @ Pinpoint
 
