@@ -10,11 +10,14 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 4. [Growing Culture](https://github.com/pinpt/handbook/blob/master/5-resources.md#growing-culture)
 5. [Personal Development](https://github.com/pinpt/handbook/blob/master/5-resources.md#personal-development)
 6. [Leadership and Management](https://github.com/pinpt/handbook/blob/master/5-resources.md#leadership-and-management)
-7. [Working Remote](https://github.com/pinpt/handbook/blob/master/5-resources.md#working-remote)
-8. [Team Dynamics](https://github.com/pinpt/handbook/blob/master/5-resources.md#team-dynamics)
-9. [Productivity](https://github.com/pinpt/handbook/blob/master/5-resources.md#productivity)
-10. [Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#health)
-11. [Cost of Poor Culture, Bad Org Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#cost-of-poor-culture-bad-org-health)
+7. [Mentorship and Coaching]()
+8. [Working Remote](https://github.com/pinpt/handbook/blob/master/5-resources.md#working-remote)
+9. [Team Dynamics](https://github.com/pinpt/handbook/blob/master/5-resources.md#team-dynamics)
+10. [Productivity](https://github.com/pinpt/handbook/blob/master/5-resources.md#productivity)
+11. [Diversity and Inclusion]()
+12. [Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#health)
+13. [Cost of Poor Culture, Bad Org Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#cost-of-poor-culture-bad-org-health)
+14. [Services, Providers]()
 
 ## General HR, PeopleOps
 
@@ -32,6 +35,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Paint Drip People](https://www.facebook.com/notes/kent-beck/paint-drip-people/1226700000696195/)
 - [Traits of exceptional engineers](https://blog.intercom.com/traits-of-exceptional-engineers/)
 - [A better way to interview software engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316)
+- [eShares - How We Hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176?_hsenc=p2ANqtz-8R6COVWjm571l-bq-UVqqhdIVp_f-lM08pQfeYo_8CsFlt-9Sn-KTFatJ6I517pXtZzNA4PFXgN1UkVsBzKssQr4Y64A&_hsmi=24982834)
 - 
 
 
@@ -72,10 +76,14 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/)
 - 
 
+## Mentorship and Coaching
+
+- [The Mentor Manifesto](http://davidgcohen.com/2011/08/28/the-mentor-manifesto/) - [Brad Feld's Breakdown](http://feld.com/archives/2014/07/deconstructing-mentor-manifesto.html) here as well.
+
 ## Working Remote
 
 - [An Engineering Manager’s Guide to the Future of Work](https://www.linkedin.com/pulse/engineering-managers-guide-future-work-scott-carleton)
-- 
+- [How Our Remote Team Stays Aligned With ‘Town Hall’ Meetings](https://www.helpscout.net/blog/remote-team-meetings/)
 
 ## Team Dynamics
 
@@ -87,6 +95,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 ## Productivity
 
 - [7 Habits of Tech-Savvy Teams](https://themission.co/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
+
+
+## Diversity and Inclusion
+
+- [Ask HN: Women in Tech, How Do You Find Non-Toxic Work Environments?](https://news.ycombinator.com/item?id=14490333)
 - 
 
 ## Health
@@ -95,13 +108,17 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Trickle-Down Workaholism in Startups](https://m.signalvnoise.com/trickle-down-workaholism-in-startups-a90ceac76426)
 - [How to Avoid Burnout](http://www.techstars.com/content/accelerators/how-to-avoid-burnout/)
 - [Reboot.io Podcast](https://www.reboot.io/podcast/)
-- 
+- [Suicide and Depression in Startups](http://www.businessinsider.com/austen-heinzs-suicide-and-depression-in-startups-2015-7)
 
 ## Cost of Poor Culture, Bad Org Health
 
 - [How much does employee turnover really cost?](https://medium.com/resources-for-humans/how-much-does-employee-turnover-really-cost-d61df5eed151)
 - [People leave managers, not companies. Don’t let that manager be you.](https://blog.intercom.com/people-leave-managers-not-companies/)
 
+## Services and Providers
+
+- [Start with Lucy](https://startwithlucy.com/) - Prenatal and Postpartum Support
+- 
 
 
 
