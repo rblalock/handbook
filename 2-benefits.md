@@ -1,3 +1,15 @@
+Our goal at Pinpoint is to partner with you to ensure that you can be the healthiest version of you for your team, your family, and for those that you care about! We're here to serve you.
+
+**Table of Contents**
+
+1. [Healthcare and Disability Insurance](https://github.com/pinpt/handbook/blob/master/2-benefits.md#healthcare-and-disability-insurance)
+2. [Payroll](https://github.com/pinpt/handbook/blob/master/2-benefits.md#payroll-ie-getting-paid)
+3. [Observed Holiday List](https://github.com/pinpt/handbook/blob/master/2-benefits.md#pinpoint-observed-holiday-list-for-2017)
+4. [Vacation and Sick Leave](https://github.com/pinpt/handbook/blob/master/2-benefits.md#vacation-and-sick-leave)
+5. [Paid Family, Parent Leave](https://github.com/pinpt/handbook/blob/master/2-benefits.md#paid-family-parent-leave)
+6. [Other Protected Absences](https://github.com/pinpt/handbook/blob/master/2-benefits.md#other-protected-absences)
+7. [Sabbatical](https://github.com/pinpt/handbook/blob/master/2-benefits.md#sabbatical)
+
 ## Healthcare and Disability Insurance
 
 Pinpoint’s priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.
@@ -16,7 +28,7 @@ We currently use Gusto as well for Payroll and part of your onboarding process w
 
 If we have any questions or need anything specific we will ping you!
 
-## Pinpoint Observed Holiday List for 2017
+## Observed Holiday List for 2017
 
 If you have any questions feel free to drop them in Slack in #OrgDev.
 
