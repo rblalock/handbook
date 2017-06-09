@@ -2,6 +2,20 @@
 
 The following are PeopleOps and HR-related resources that we like. Feel free to check them out as we've been inspired by them and may actually use some of these strategies and methodologies to build the best company ever.
 
+**Table of Contents**
+
+1. [General HR, PeopleOps](https://github.com/pinpt/handbook/blob/master/5-resources.md#general-hr-peopleops)
+2. [Hiring](https://github.com/pinpt/handbook/blob/master/5-resources.md#hiring)
+3. [Onboarding](https://github.com/pinpt/handbook/blob/master/5-resources.md#onboarding)
+4. [Growing Culture](https://github.com/pinpt/handbook/blob/master/5-resources.md#growing-culture)
+5. [Personal Development](https://github.com/pinpt/handbook/blob/master/5-resources.md#personal-development)
+6. [Leadership and Management](https://github.com/pinpt/handbook/blob/master/5-resources.md#leadership-and-management)
+7. [Working Remote](https://github.com/pinpt/handbook/blob/master/5-resources.md#working-remote)
+8. [Team Dynamics](https://github.com/pinpt/handbook/blob/master/5-resources.md#team-dynamics)
+9. [Productivity](https://github.com/pinpt/handbook/blob/master/5-resources.md#productivity)
+10. [Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#health)
+11. [Cost of Poor Culture, Bad Org Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#cost-of-poor-culture-bad-org-health)
+
 ## General HR, PeopleOps
 
 - [Getting Human Resources Right](http://avc.com/2017/02/getting-human-resources-right/)
