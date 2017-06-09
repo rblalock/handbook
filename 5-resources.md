@@ -56,6 +56,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Culture and Revolution](http://a16z.com/2017/03/04/culture-and-revolution-ben-horowitz-toussaint-louverture/)
 - [Engineering Values: The Secret to Our Growth](https://blog.intercom.com/the-engineering-values-we-live-by/)
 - [Clever Ways to Improve Culture](https://medium.com/startup-foundation-stories/clever-ways-to-improve-your-company-culture-c27b12ffa733)
+- [This Culture Deck Powers the World’s Toughest Work](http://firstround.com/review/This-Culture-Deck-Powers-the-Worlds-Toughest-Work/)
 
 
 ## Personal Development
@@ -109,6 +110,9 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Avoid Burnout](http://www.techstars.com/content/accelerators/how-to-avoid-burnout/)
 - [Reboot.io Podcast](https://www.reboot.io/podcast/)
 - [Suicide and Depression in Startups](http://www.businessinsider.com/austen-heinzs-suicide-and-depression-in-startups-2015-7)
+- [Founders and Depression](https://techcrunch.com/2014/07/30/founders-on-depression/)
+- [Startups and Depression](http://startupdepression.com/) - Big List of Resources and Links
+
 
 ## Cost of Poor Culture, Bad Org Health
 
@@ -118,7 +122,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 ## Services and Providers
 
 - [Start with Lucy](https://startwithlucy.com/) - Prenatal and Postpartum Support
-- 
+- [ParadigmIQ](http://www.paradigmiq.com/) - Assessing Diversity and Inclusion
 
 
 
