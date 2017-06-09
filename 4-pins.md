@@ -4,6 +4,11 @@ We've started a small tradition here at Pinpoint where we celebrate a few milest
 
 Over time we should all have a handful of them to represent our time and our participation in the larger Pinpoint story.
 
+**Pin List**
+
+1. [New Beginnings](https://github.com/pinpt/handbook/blob/master/4-pins.md#new-beginnings)
+2. [xxx]()
+
 #### New Beginnings
 
 The first pin is "new beginnings," a blank terminal that represents all the hope that we have in an scary-exciting, unknown future. If you've joined the Pinpoint family in 2017 then you'll have one of these. Read a few more additional thoughts [via our blog post here](https://blog.pinpt.co/pinning-culture/).
