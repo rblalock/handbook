@@ -6,6 +6,11 @@ To start, you're going to want to make sure you review [Our Mission and Values](
 
 You'll probably have questions so feel free to ping anyone on the team, drop a note in Slack {**#OrgDev**) or if you need anything specific, ping @John! Also, if you have comments and/or suggestions on this Handbook, please join #handbook in Slack and contribute!
 
+## Table of Contents
+
+1. [Your First Day](https://github.com/pinpt/handbook/blob/master/1-onboarding.md#your-first-day)
+2. [Your First Week](https://github.com/pinpt/handbook/blob/master/1-onboarding.md#your-first-week)
+
 ***
 
 #### Your First Day
