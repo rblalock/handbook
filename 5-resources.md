@@ -127,3 +127,44 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 
 
+http://gohire.io/
+ATS: Greenhouse
+ATS: Workable
+Reflektive
+https://www.glassdoor.com/index.htm
+
+https://teamable.com/
+https://recruitly.ca/
+https://angel.co/
+http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html
+https://www.stackoverflowbusiness.com/talent#
+http://daydreamsinruby.com/technical-interviews-revised-process/
+https://stackoverflow.com/company/salary/calculator
+https://sourcing.io/
+https://www.newsteer.com/
+http://firstround.com/review/team-health-monitors-and-why-your-startup-needs-a-check-up/
+
+https://quip.com/MwcgA10sGgFC
+https://www.impraise.com/
+
+https://www.polly.ai/
+https://www.15five.com/
+
+https://suggestionsam.com/
+https://knowyourcompany.com/
+
+https://bonus.ly/
+https://recognizeapp.com/
+https://www.heytaco.chat/
+https://plusplus.chat/
+https://www.15five.com/
+
+https://open.buffer.com/mindful-swag/
+
+http://firstround.com/review/turbocharge-your-recruiting-machine-heres-how/
+
+https://mattermark.com/blind-hiring-can-make-company-inclusive/
+http://firstround.com/review/how-instacart-uses-data-to-craft-a-bespoke-comp-strategy/
+https://docs.google.com/document/d/1lrN4MXieXFXex2sxssJ7PODdTbzR-TnBniLZFGol-2s/edit
+https://www.culturevids.com/
+
