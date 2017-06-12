@@ -14,10 +14,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 8. [Working Remote](https://github.com/pinpt/handbook/blob/master/5-resources.md#working-remote)
 9. [Team Dynamics](https://github.com/pinpt/handbook/blob/master/5-resources.md#team-dynamics)
 10. [Productivity](https://github.com/pinpt/handbook/blob/master/5-resources.md#productivity)
-11. [Diversity and Inclusion]()
+11. [Diversity, Inclusion, Family, Gender]()
 12. [Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#health)
-13. [Cost of Poor Culture, Bad Org Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#cost-of-poor-culture-bad-org-health)
-14. [Services, Providers]()
+13. [Internship Programs]()
+14. [Cost of Poor Culture, Bad Org Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#cost-of-poor-culture-bad-org-health)
+15. [Services, Providers]()
 
 ## General HR, PeopleOps
 
@@ -25,7 +26,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [re:Work - Open Source HR via Google](https://rework.withgoogle.com/subjects/)
 - [The Atlassian Team Playbook - A No-Bullshit Guide](https://www.atlassian.com/team-playbook)
 - [GitLab's Team Handbook](https://about.gitlab.com/handbook/)
-- 
+- [Deloitte - Human Capital Trends 2017](https://www2.deloitte.com/us/en/pages/human-capital/articles/introduction-human-capital-trends.html) - [PDF](https://www.dropbox.com/s/k1do87et6hj1gck/hc-2017-global-human-capital-trends-us.pdf?dl=0)
+- [MeetEdgar's Cultura Guide, Handbook](https://docs.google.com/document/d/12mv0roRKL5qULoV_JUcDC8OD6lnF0YlVktuyMlFka7A/edit)
+- [People, Performance Management at Startups via HomeBrew VC](https://quip.com/MwcgA10sGgFC)
+
+
 
 ## Hiring
 
@@ -36,7 +41,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Traits of exceptional engineers](https://blog.intercom.com/traits-of-exceptional-engineers/)
 - [A better way to interview software engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316)
 - [eShares - How We Hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176?_hsenc=p2ANqtz-8R6COVWjm571l-bq-UVqqhdIVp_f-lM08pQfeYo_8CsFlt-9Sn-KTFatJ6I517pXtZzNA4PFXgN1UkVsBzKssQr4Y64A&_hsmi=24982834)
+- [Technical Interviews - Revised Process](http://daydreamsinruby.com/technical-interviews-revised-process/)
+- [How Instacart Uses Data to Craft A Bespoke Comp Strategy](http://firstround.com/review/how-instacart-uses-data-to-craft-a-bespoke-comp-strategy/)
+- [Turbocharge Your Recruiting Machine — Here’s How](http://firstround.com/review/turbocharge-your-recruiting-machine-heres-how/)
 - 
+
 
 
 ## Onboarding
@@ -44,6 +53,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Employee Onboarding is Broken, Here's How to Fix It](http://firstround.com/review/Employee-Onboarding-at-Startups-Is-Broken-Heres-How-to-Fix-It/)
 - [Onboarding Strategy for Startups](http://blog.namely.com/blog/2015/3/19/the-ultimate-onboarding-strategy-for-startups)
 - [Effective Onboarding Experience for Startups](https://www.forbes.com/sites/sujanpatel/2015/03/11/how-to-create-an-effective-onboarding-experience-at-your-startup/#79ca86952b16)
+
+
 
 ## Growing Culture
 
@@ -57,12 +68,20 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Engineering Values: The Secret to Our Growth](https://blog.intercom.com/the-engineering-values-we-live-by/)
 - [Clever Ways to Improve Culture](https://medium.com/startup-foundation-stories/clever-ways-to-improve-your-company-culture-c27b12ffa733)
 - [This Culture Deck Powers the World’s Toughest Work](http://firstround.com/review/This-Culture-Deck-Powers-the-Worlds-Toughest-Work/)
+- [The Best Culture Videos](https://www.culturevids.com/)
+- [Why We’re Becoming More Mindful in Sharing Swag](https://open.buffer.com/mindful-swag/)
+- 
 
 
 ## Personal Development
 
 - [Writing and Speaking](http://avc.com/2017/05/writing-and-speaking/)
+- [Slack: How We Approach Professional Learning](https://slackhq.com/how-we-approach-professional-learning-at-slack-b822283268cd)
 - 
+
+
+
+
 
 ## Leadership and Management
 
@@ -75,16 +94,30 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Radical Candor - How to Be a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - [Another Good Post Here](https://blog.intercom.com/kim-scott-on-radical-candor/)
 - [Running a Manager Feedback Cycle](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/)
 - [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/)
-- 
+- [Running an All-Hands](https://medium.com/@gokulrajaram/all-you-ever-wanted-to-know-about-all-hands-but-were-afraid-to-ask-b13f7b97f2d9)
+
+
+
+
+
 
 ## Mentorship and Coaching
 
 - [The Mentor Manifesto](http://davidgcohen.com/2011/08/28/the-mentor-manifesto/) - [Brad Feld's Breakdown](http://feld.com/archives/2014/07/deconstructing-mentor-manifesto.html) here as well.
+- [Mentorship at Slack](https://slack.engineering/mentorship-at-slack-cb0962d75a10)
+
+
+
 
 ## Working Remote
 
 - [An Engineering Manager’s Guide to the Future of Work](https://www.linkedin.com/pulse/engineering-managers-guide-future-work-scott-carleton)
 - [How Our Remote Team Stays Aligned With ‘Town Hall’ Meetings](https://www.helpscout.net/blog/remote-team-meetings/)
+- [Scaling A Distributed Team to 50+ Employees](https://stories.uplabs.com/scaling-a-distributed-team-to-50-employees-6ea8392271bc)
+
+
+
+
 
 ## Team Dynamics
 
@@ -93,15 +126,26 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Ask Good Questions](https://jvns.ca/blog/good-questions/)
 -  
 
+
+
 ## Productivity
 
 - [7 Habits of Tech-Savvy Teams](https://themission.co/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
 
 
-## Diversity and Inclusion
+
+
+
+## Diversity, Inclusion, Family, Gender
 
 - [Ask HN: Women in Tech, How Do You Find Non-Toxic Work Environments?](https://news.ycombinator.com/item?id=14490333)
-- 
+- [Being an Effective Ally to Women and Non-Binary People](https://codeascraft.com/2016/10/19/being-an-effective-ally-to-women-and-non-binary-people/)
+- [Family Planning While Working at a Startup](https://mfbt.ca/family-planning-while-working-in-a-startup-8c4b5426258b)
+- [Startup School: D&I at Early Stage Companies](https://docs.google.com/document/d/1lrN4MXieXFXex2sxssJ7PODdTbzR-TnBniLZFGol-2s/edit)
+- [How Blind Hiring Can Make Your Company More Inclusive](https://mattermark.com/blind-hiring-can-make-company-inclusive/)
+
+
+
 
 ## Health
 
@@ -112,7 +156,16 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Suicide and Depression in Startups](http://www.businessinsider.com/austen-heinzs-suicide-and-depression-in-startups-2015-7)
 - [Founders and Depression](https://techcrunch.com/2014/07/30/founders-on-depression/)
 - [Startups and Depression](http://startupdepression.com/) - Big List of Resources and Links
+- [eMindful](https://www.emindful.com/) - Accountable Wellness Program
+- [Every Company SHould Offer Mental Health Days](https://medium.com/anxy-magazine/every-company-should-offer-mental-health-days-5fd148af3dff)
+- [Team Health Monitors and Why Your Startup Needs a Check-up](http://firstround.com/review/team-health-monitors-and-why-your-startup-needs-a-check-up/)
+- 
 
+
+
+## Internship Programs
+
+- 
 
 ## Cost of Poor Culture, Bad Org Health
 
@@ -121,50 +174,58 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 ## Services and Providers
 
+- [Know Your Company](https://knowyourcompany.com/)
 - [Start with Lucy](https://startwithlucy.com/) - Prenatal and Postpartum Support
 - [ParadigmIQ](http://www.paradigmiq.com/) - Assessing Diversity and Inclusion
+- [Handshake](https://www.joinhandshake.com/) - Internship Marketplace
+- [Understand Better](https://understandbetter.co/) - Engagement Platform powered by AI
+- [LatticeHQ](https://latticehq.com/) - Performance Management for Growing Companies
+- [Glint](https://www.glintinc.com/) - People Success Platform
+- [Zugata](https://www.zugata.com/) - Holistic Peformance Management
+- [BetterUp](https://www.betterup.co/) - Coaching
+- [HazelHQ](http://hazelhq.com/) - Engaging Teams
+- [Skore](http://www.skore.io/) - Team's Knowledgebase
+- [Reflektive](https://www.reflektive.com/) - Performance Management
+- [StackOverflow Developer Payscale, Calculator](https://stackoverflow.com/company/salary/calculator)
+- [Steer](https://www.newsteer.com/) - Remote Team Happiness
+- [HeyTaco!](https://www.heytaco.chat/)
+- [Bonusly](https://bonus.ly/) - Employee Recognition
+- [Suggestion Sam](https://suggestionsam.com/)
+- [15Five](https://www.15five.com/)
+- [Polly.ai](https://www.polly.ai/) - Slack Polls
+- [Impraise](https://www.impraise.com/) - Continous Feedback
+- 
+
+ATS: [GoHire](http://gohire.io/)
+ATS: [Greenhouse.io](https://www.greenhouse.io/)
+ATS: [Workable](https://www.workable.com/)
+
+
+
+## Hiring
+
+- [Recruitly](https://recruitly.ca/)
+- [Angel List](https://angel.co/)
+- [Teamable](https://teamable.com/)
+- [StackOverflow Business](https://www.stackoverflowbusiness.com/talent#)
+- [Sourcing.io](https://sourcing.io/)
+- [TripleByte - Coding Quiz, Developer Jobs](https://triplebyte.com/)
 
 
 
 
-http://gohire.io/
-ATS: Greenhouse
-ATS: Workable
-Reflektive
-https://www.glassdoor.com/index.htm
 
-https://teamable.com/
-https://recruitly.ca/
-https://angel.co/
-http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html
-https://www.stackoverflowbusiness.com/talent#
-http://daydreamsinruby.com/technical-interviews-revised-process/
-https://stackoverflow.com/company/salary/calculator
-https://sourcing.io/
-https://www.newsteer.com/
-http://firstround.com/review/team-health-monitors-and-why-your-startup-needs-a-check-up/
+## Payroll, Benefits
 
-https://quip.com/MwcgA10sGgFC
-https://www.impraise.com/
+- [Gusto](https://gusto.com/r/ncX42/)
+- [JustWorks](https://justworks.com/)
+- [Namely](https://www.namely.com/)
+- [Sequoia](http://www.sequoia.com/)
+- [Trinet](https://www.trinet.com/)
 
-https://www.polly.ai/
-https://www.15five.com/
 
-https://suggestionsam.com/
-https://knowyourcompany.com/
 
-https://bonus.ly/
-https://recognizeapp.com/
-https://www.heytaco.chat/
-https://plusplus.chat/
-https://www.15five.com/
 
-https://open.buffer.com/mindful-swag/
+## Misc...
 
-http://firstround.com/review/turbocharge-your-recruiting-machine-heres-how/
-
-https://mattermark.com/blind-hiring-can-make-company-inclusive/
-http://firstround.com/review/how-instacart-uses-data-to-craft-a-bespoke-comp-strategy/
-https://docs.google.com/document/d/1lrN4MXieXFXex2sxssJ7PODdTbzR-TnBniLZFGol-2s/edit
-https://www.culturevids.com/
-
+- 
