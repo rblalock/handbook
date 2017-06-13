@@ -10,15 +10,15 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 4. [Growing Culture](https://github.com/pinpt/handbook/blob/master/5-resources.md#growing-culture)
 5. [Personal Development](https://github.com/pinpt/handbook/blob/master/5-resources.md#personal-development)
 6. [Leadership and Management](https://github.com/pinpt/handbook/blob/master/5-resources.md#leadership-and-management)
-7. [Mentorship and Coaching]()
+7. [Mentorship and Coaching](https://github.com/pinpt/handbook/blob/master/5-resources.md#mentorship-and-coaching)
 8. [Working Remote](https://github.com/pinpt/handbook/blob/master/5-resources.md#working-remote)
 9. [Team Dynamics](https://github.com/pinpt/handbook/blob/master/5-resources.md#team-dynamics)
 10. [Productivity](https://github.com/pinpt/handbook/blob/master/5-resources.md#productivity)
-11. [Diversity, Inclusion, Family, Gender]()
+11. [Diversity, Inclusion, Family, Gender](https://github.com/pinpt/handbook/blob/master/5-resources.md#diversity-inclusion-family-gender)
 12. [Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#health)
-13. [Internship Programs]()
+13. [Internship Programs](https://github.com/pinpt/handbook/blob/master/5-resources.md#internship-programs)
 14. [Cost of Poor Culture, Bad Org Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#cost-of-poor-culture-bad-org-health)
-15. [Services, Providers]()
+15. [Services, Providers](https://github.com/pinpt/handbook/blob/master/5-resources.md#services-and-providers)
 
 ## General HR, PeopleOps
 
@@ -172,7 +172,13 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How much does employee turnover really cost?](https://medium.com/resources-for-humans/how-much-does-employee-turnover-really-cost-d61df5eed151)
 - [People leave managers, not companies. Don’t let that manager be you.](https://blog.intercom.com/people-leave-managers-not-companies/)
 
-## Services and Providers
+
+
+# Online Services and Providers
+
+The following is a list of technology, consulting, and product / service companies that may be useful for our organization.
+
+## General Employee Management, Engagement
 
 - [Know Your Company](https://knowyourcompany.com/)
 - [Start with Lucy](https://startwithlucy.com/) - Prenatal and Postpartum Support
@@ -196,13 +202,13 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Impraise](https://www.impraise.com/) - Continous Feedback
 - 
 
-ATS: [GoHire](http://gohire.io/)
-ATS: [Greenhouse.io](https://www.greenhouse.io/)
-ATS: [Workable](https://www.workable.com/)
+## Applicant Tracking Systems (ATS)
 
+- [GoHire](http://gohire.io/)
+- [Greenhouse.io](https://www.greenhouse.io/)
+- [Workable](https://www.workable.com/)
 
-
-## Hiring
+## Hiring, Recruiting
 
 - [Recruitly](https://recruitly.ca/)
 - [Angel List](https://angel.co/)
@@ -211,10 +217,6 @@ ATS: [Workable](https://www.workable.com/)
 - [Sourcing.io](https://sourcing.io/)
 - [TripleByte - Coding Quiz, Developer Jobs](https://triplebyte.com/)
 
-
-
-
-
 ## Payroll, Benefits
 
 - [Gusto](https://gusto.com/r/ncX42/)
@@ -222,9 +224,6 @@ ATS: [Workable](https://www.workable.com/)
 - [Namely](https://www.namely.com/)
 - [Sequoia](http://www.sequoia.com/)
 - [Trinet](https://www.trinet.com/)
-
-
-
 
 ## Misc...
 
