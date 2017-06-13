@@ -29,6 +29,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Deloitte - Human Capital Trends 2017](https://www2.deloitte.com/us/en/pages/human-capital/articles/introduction-human-capital-trends.html) - [PDF](https://www.dropbox.com/s/k1do87et6hj1gck/hc-2017-global-human-capital-trends-us.pdf?dl=0)
 - [MeetEdgar's Cultura Guide, Handbook](https://docs.google.com/document/d/12mv0roRKL5qULoV_JUcDC8OD6lnF0YlVktuyMlFka7A/edit)
 - [People, Performance Management at Startups via HomeBrew VC](https://quip.com/MwcgA10sGgFC)
+- [Tours of Duty: The New Employer-Employee Compact](https://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact) - Book here is great: [The Alliance](http://amzn.to/2sZAyOM)
 
 
 
@@ -36,7 +37,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 - [Using Slack to Interview](https://blog.fullstory.com/using-slack-to-interview-job-candidates-e8d163906614)
 - [How to Assess Emotional Intelligence During the Interview Process](https://thinkgrowth.org/how-to-assess-emotional-intelligence-during-the-interview-process-bad335d06f5e)
-- [5 More Lessons from Scaling Pinterest](Five More Lessons from Scaling Pinterest)
+- [5 More Lessons from Scaling Pinterest](https://medium.com/@sarahtavel/five-more-lessons-from-scaling-pinterest-9c10fe97d325)
 - [Paint Drip People](https://www.facebook.com/notes/kent-beck/paint-drip-people/1226700000696195/)
 - [Traits of exceptional engineers](https://blog.intercom.com/traits-of-exceptional-engineers/)
 - [A better way to interview software engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316)
@@ -174,6 +175,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 
 
+
+
+***
+
 # Online Services and Providers
 
 The following is a list of technology, consulting, and product / service companies that may be useful for our organization.
@@ -207,6 +212,8 @@ The following is a list of technology, consulting, and product / service compani
 - [GoHire](http://gohire.io/)
 - [Greenhouse.io](https://www.greenhouse.io/)
 - [Workable](https://www.workable.com/)
+- [Lever](https://www.lever.co/)
+- [Breezy HR](https://breezy.hr/)
 
 ## Hiring, Recruiting
 
