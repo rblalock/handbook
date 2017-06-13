@@ -1,3 +1,12 @@
+Get your overview, right here.
+
+**Table of Contents**
+
+1. [Mission Statement](https://github.com/pinpt/handbook/blob/master/0-introduction.md#mission-statement)
+2. [Our Values](https://github.com/pinpt/handbook/blob/master/0-introduction.md#our-values)
+3. [Our Story](https://github.com/pinpt/handbook/blob/master/0-introduction.md#our-story)
+4. [Our Founders](https://github.com/pinpt/handbook/blob/master/0-introduction.md#our-founders)
+
 ## Mission Statement
 
 We're building a platform that drives continuous improvement into a company's software delivery efforts. 
@@ -8,17 +17,9 @@ Consequently, our mission is simple: **Help companies build better software**.
 
 Our values are simple and straight-forward, liberally taken from @Jeff and @Nolan's previous venture which worked out [nicely](https://techcrunch.com/2016/01/17/axway-acquires-mobile-app-development-platform-appcelerator/)).
 
-#### 1. Humility
-
-Stay humble as there is always room to grow.
-
-#### 2. Continuous Improvement
-
-Measure, iterate, and execute. "You can't improve what you don't measure." - [Jeff](https://www.recode.net/2016/8/5/12377644/technology-startup-investment-advice-scale-slower)
-
-#### 3. Customer Success
-
-This value drives everything we do: Help our customer succeed. Consequently, we succeed when our customer's do.
+1. **Humility** - Stay humble as there is always room to grow.
+2. **Continuous Improvement** - Measure, iterate, and execute. "You can't improve what you don't measure." - [Jeff](https://www.recode.net/2016/8/5/12377644/technology-startup-investment-advice-scale-slower)
+3. **Customer Success** - This value drives everything we do: Help our customer succeed. Consequently, we succeed when our customer's do.
 
 ## Our Story
 
