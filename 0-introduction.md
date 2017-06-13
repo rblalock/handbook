@@ -26,4 +26,18 @@ To be filled in... soon...
 
 ## Our Founders
 
-To be filled in... soon...
+#### Jeff Haynie - CEO
+
+Jeff was co-founder and CEO of Appcelerator before an acquisition by Axway (NYSE:AXW.PA) in January, 2016. Jeff is a long-time serial entrepreneur, angel investor, technologist and blogger.
+
+Previously, Jeff was co-founder and CTO of Vocalocity, a software provider in the communications arena and before that, CTO of eHatchery, a digital incubator and off-shoot of Bill Gross’ idealab!. Jeff has worked on numerous standard committees such as IETF and W3C as well as core contributor to a number of important open source technologies such as JBoss and OpenVXI. Jeff served with distinction in the U.S. Navy.
+
+#### Nolan Wright - CTO
+
+Nolan was a co-founder with Jeff at Appcelerator and led engineering and product management. Before that, Nolan led engineering and product management for Vocalocity, a VoiceXML platform company.
+
+Nolan started his career at Andersen Consulting (now Accenture), and then went to work for Netscape. Nolan graduated from Vanderbilt University with a degree in Electrical Engineering.
+
+#### John Saddington - Product
+
+John was co-founder of The Iron Yard before an acquisition by Apollo Global in June, 2015. Before that, he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and new vlogger.
