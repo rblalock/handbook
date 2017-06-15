@@ -71,7 +71,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [This Culture Deck Powers the World’s Toughest Work](http://firstround.com/review/This-Culture-Deck-Powers-the-Worlds-Toughest-Work/)
 - [The Best Culture Videos](https://www.culturevids.com/)
 - [Why We’re Becoming More Mindful in Sharing Swag](https://open.buffer.com/mindful-swag/)
-- 
+- [Uniqlo Boss: ‘Without a Soul, a Company is Nothing’](https://www.businessoffashion.com/articles/people/uniqlo-fast-retailing-ceo-tadashi-yanai-management-principles)
+- [What Our 3 Biggest Successes and 2 Biggest Failures Taught Us About Company Culture](https://open.buffer.com/build-company-culture/)
+-
+
+
 
 
 ## Personal Development
@@ -79,6 +83,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Writing and Speaking](http://avc.com/2017/05/writing-and-speaking/)
 - [Slack: How We Approach Professional Learning](https://slackhq.com/how-we-approach-professional-learning-at-slack-b822283268cd)
 - [How to Say Sorry - Anatomoy of an Apology](http://nymag.com/scienceofus/2017/06/these-apology-critics-want-to-teach-you-how-to-say-sorry.html) 
+- [Internal Tech Conference Toolkit](https://engineering.klarna.com/internal-tech-conference-toolkit-79b1ba91bd08)
+- [The best developer conference? Your own.](https://engineering.klarna.com/the-best-developer-conference-your-own-ef68f2831b67)
+
+
 
 
 
@@ -97,6 +105,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/)
 - [Running an All-Hands](https://medium.com/@gokulrajaram/all-you-ever-wanted-to-know-about-all-hands-but-were-afraid-to-ask-b13f7b97f2d9)
 - [What the Best Leaders Do - 10 Things](https://m.signalvnoise.com/what-the-best-leaders-do-2848c214a7ff)
+- [Key Takeaways from CTO Unconference](http://firstround.com/review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/) - Useful for non-technical leaders too.
+- [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
+- [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
+-
 
 
 
@@ -106,6 +118,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 - [The Mentor Manifesto](http://davidgcohen.com/2011/08/28/the-mentor-manifesto/) - [Brad Feld's Breakdown](http://feld.com/archives/2014/07/deconstructing-mentor-manifesto.html) here as well.
 - [Mentorship at Slack](https://slack.engineering/mentorship-at-slack-cb0962d75a10)
+
 
 
 
@@ -144,6 +157,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Family Planning While Working at a Startup](https://mfbt.ca/family-planning-while-working-in-a-startup-8c4b5426258b)
 - [Startup School: D&I at Early Stage Companies](https://docs.google.com/document/d/1lrN4MXieXFXex2sxssJ7PODdTbzR-TnBniLZFGol-2s/edit)
 - [How Blind Hiring Can Make Your Company More Inclusive](https://mattermark.com/blind-hiring-can-make-company-inclusive/)
+- [Ask a Female Engineer: Employees with Kids and Relationships at Work](http://blog.ycombinator.com/ask-a-female-engineer-4/)
+- [The family-friendly startup is possible. Here’s how you build one.](https://hackernoon.com/the-family-friendly-startup-is-possible-heres-how-you-build-one-c3cdbf6133ea)
+- [Project: Include](http://projectinclude.org/)
+- 
+
 
 
 
@@ -160,7 +178,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [eMindful](https://www.emindful.com/) - Accountable Wellness Program
 - [Every Company SHould Offer Mental Health Days](https://medium.com/anxy-magazine/every-company-should-offer-mental-health-days-5fd148af3dff)
 - [Team Health Monitors and Why Your Startup Needs a Check-up](http://firstround.com/review/team-health-monitors-and-why-your-startup-needs-a-check-up/)
-- 
+- [Working remotely, coworking spaces, and mental health](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
 
 
 
@@ -205,7 +223,8 @@ The following is a list of technology, consulting, and product / service compani
 - [15Five](https://www.15five.com/)
 - [Polly.ai](https://www.polly.ai/) - Slack Polls
 - [Impraise](https://www.impraise.com/) - Continous Feedback
-- 
+- [Culture Amp](https://www.cultureamp.com/)
+- [Small Improvements](https://www.small-improvements.com/)
 
 ## Applicant Tracking Systems (ATS)
 
@@ -214,6 +233,9 @@ The following is a list of technology, consulting, and product / service compani
 - [Workable](https://www.workable.com/)
 - [Lever](https://www.lever.co/)
 - [Breezy HR](https://breezy.hr/)
+- [Asana](https://asana.com/) - Learn how to hire [free tool](https://asana.com/guide/examples/hr/onboarding).
+- [Trello](http://trello.com) - [Free Boards](https://blog.trello.com/trello-boards-for-hr-teams) to try for HR teams.
+
 
 ## Hiring, Recruiting
 
@@ -223,6 +245,7 @@ The following is a list of technology, consulting, and product / service compani
 - [StackOverflow Business](https://www.stackoverflowbusiness.com/talent#)
 - [Sourcing.io](https://sourcing.io/)
 - [TripleByte - Coding Quiz, Developer Jobs](https://triplebyte.com/)
+- [Piazza](https://recruiting.piazza.com/) 
 
 ## Payroll, Benefits
 
@@ -234,4 +257,6 @@ The following is a list of technology, consulting, and product / service compani
 
 ## Misc...
 
-- 
+- [Hivy](https://hivyapp.com/) - Office Management Platform
+
+
