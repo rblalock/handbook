@@ -78,7 +78,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 - [Writing and Speaking](http://avc.com/2017/05/writing-and-speaking/)
 - [Slack: How We Approach Professional Learning](https://slackhq.com/how-we-approach-professional-learning-at-slack-b822283268cd)
-- 
+- [How to Say Sorry - Anatomoy of an Apology](http://nymag.com/scienceofus/2017/06/these-apology-critics-want-to-teach-you-how-to-say-sorry.html) 
 
 
 
@@ -96,7 +96,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Running a Manager Feedback Cycle](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/)
 - [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/)
 - [Running an All-Hands](https://medium.com/@gokulrajaram/all-you-ever-wanted-to-know-about-all-hands-but-were-afraid-to-ask-b13f7b97f2d9)
-
+- [What the Best Leaders Do - 10 Things](https://m.signalvnoise.com/what-the-best-leaders-do-2848c214a7ff)
 
 
 

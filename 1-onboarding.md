@@ -49,15 +49,16 @@ Also, you may feel inclined to share the news of Pinpoint via social media and w
 There are a few social networks that we're part of that we'd love for you to **follow** and even **add them** to your profiles! There is, of course, no pressure to do so.
 
 1. Twitter: [@WhatIsPinpoint](http://twitter.com/whatispinpoint)
-2. Facebook: [Pinptco](https://www.facebook.com/pinptco/)
-3. Instagram: [@Pinptco](https://www.instagram.com/pinptco/)
-4. Angel List: [@Pinpt](https://angel.co/pinpt)
-5. LinkedIn: [PinPT Inc](https://www.linkedin.com/company-beta/16164522/)
+2. LinkedIn: [PinPT Inc](https://www.linkedin.com/company-beta/16164522/)
+3. Facebook: [Pinptco](https://www.facebook.com/pinptco/)
+4. Instagram: [@Pinptco](https://www.instagram.com/pinptco/)
+5. Angel List: [@Pinpt](https://angel.co/pinpt)
 6. Google+: [Pinpoint](https://plus.google.com/117342917449995386258)
 7. #EngOps Newsletter: [EngOps.is](http://engops.is/)
-8. Pinpoint Blog: [blog.pinpt.co](https://blog.pinpt.co/) (you can subscribe for updates)
+8. Pinpoint Blog: [blog.pinpt.co](https://blog.pinpt.co/) (Subscribe for updates)
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point!
 
-Oh, and one final thing while we're on the topic of blogs... we've written consistently about how we started putting the company and the product together, [almost from Day #1](https://blog.pinpt.co/build-better-software/). This isn't *required* reading but it could certainly give you a lot of context for where we've been and what we've been dreaming about since the beginning. Might be fun to read how far we've come.
+Oh, and one final thing while we're on the topic of blogs... we've written consistently about how we started putting the company and the product together, [almost from Day #1](https://blog.pinpt.co/build-better-software/). This isn't *required* reading but it could certainly give you a lot of context for where we've been and what we've been dreaming about since the beginning. 
 
+Might be fun to read how far we've come and it would certainly give you a deeper and wider perspective.
