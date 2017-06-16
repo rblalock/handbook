@@ -45,7 +45,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Technical Interviews - Revised Process](http://daydreamsinruby.com/technical-interviews-revised-process/)
 - [How Instacart Uses Data to Craft A Bespoke Comp Strategy](http://firstround.com/review/how-instacart-uses-data-to-craft-a-bespoke-comp-strategy/)
 - [Turbocharge Your Recruiting Machine — Here’s How](http://firstround.com/review/turbocharge-your-recruiting-machine-heres-how/)
-- 
+- [Keep Interviewing and Nobody Explodes](https://engineering.wework.com/keep-interviewing-and-nobody-explodes-450fd95631b2) - WeWork uses games as part of the hiring process.
 
 
 
@@ -85,7 +85,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Say Sorry - Anatomoy of an Apology](http://nymag.com/scienceofus/2017/06/these-apology-critics-want-to-teach-you-how-to-say-sorry.html) 
 - [Internal Tech Conference Toolkit](https://engineering.klarna.com/internal-tech-conference-toolkit-79b1ba91bd08)
 - [The best developer conference? Your own.](https://engineering.klarna.com/the-best-developer-conference-your-own-ef68f2831b67)
-
+- [Rate of Learning](https://john.do/rol/)
 
 
 
@@ -108,7 +108,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Key Takeaways from CTO Unconference](http://firstround.com/review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/) - Useful for non-technical leaders too.
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 - [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
--
+- [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392)
 
 
 
@@ -118,7 +118,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 - [The Mentor Manifesto](http://davidgcohen.com/2011/08/28/the-mentor-manifesto/) - [Brad Feld's Breakdown](http://feld.com/archives/2014/07/deconstructing-mentor-manifesto.html) here as well.
 - [Mentorship at Slack](https://slack.engineering/mentorship-at-slack-cb0962d75a10)
-
+- [Docker Global Mentor Week](https://blog.docker.com/2016/10/docker-global-mentor-week-2016/)
 
 
 
@@ -138,8 +138,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Great Teams Are About Personalities, Not Just Skills](https://hbr.org/2017/01/great-teams-are-about-personalities-not-just-skills)
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 - [How to Ask Good Questions](https://jvns.ca/blog/good-questions/)
--  
-
+- [Just Do As Expected](https://hackernoon.com/just-do-as-expected-544385144f14)
+- [The Utopica of a (Developer)](https://twitter.com/atticoos/status/875004365379129346) - Useful for everyone, actually.
 
 
 ## Productivity
@@ -179,7 +179,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Every Company SHould Offer Mental Health Days](https://medium.com/anxy-magazine/every-company-should-offer-mental-health-days-5fd148af3dff)
 - [Team Health Monitors and Why Your Startup Needs a Check-up](http://firstround.com/review/team-health-monitors-and-why-your-startup-needs-a-check-up/)
 - [Working remotely, coworking spaces, and mental health](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
-
+- [HumanOps](http://www.humanops.com/)
 
 
 ## Internship Programs
