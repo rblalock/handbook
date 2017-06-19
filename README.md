@@ -23,12 +23,13 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 
 ## Table of Contents
 
-1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) (Mission, Values, Staff)
-2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) (Getting Started @ Pinpoint)
-2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md) (A Few Goodies)
-3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md) (Must-Read)
-4. [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md) (A Little Intentional Culture)
-5. [PeopleOps Resources](https://github.com/pinpt/handbook/blob/master/5-resources.md) (A Curated List of Posts, Tools, and More)
+1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) - Mission, Values, Staff
+2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) - Getting Started @ Pinpoint
+2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md) - A Few Goodies for the Team
+3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md) - A "**Must-Read**"
+4. [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md) - A Little Intentional Culture
+5. [PeopleOps Resources](https://github.com/pinpt/handbook/blob/master/5-resources.md) - A Curated List of Posts, Tools, and More
+6. [Growth](https://github.com/pinpt/growth) - How We Communicate Who We Are
 
 ## Work @ Pinpoint
 
