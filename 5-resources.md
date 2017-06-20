@@ -225,6 +225,8 @@ The following is a list of technology, consulting, and product / service compani
 - [Impraise](https://www.impraise.com/) - Continous Feedback
 - [Culture Amp](https://www.cultureamp.com/)
 - [Small Improvements](https://www.small-improvements.com/)
+- [Checkr](https://checkr.com/) - Background Checks
+- [eShares](https://esharesinc.com/) - Cap Table, Equity Management
 
 ## Applicant Tracking Systems (ATS)
 
