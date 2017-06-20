@@ -180,6 +180,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Team Health Monitors and Why Your Startup Needs a Check-up](http://firstround.com/review/team-health-monitors-and-why-your-startup-needs-a-check-up/)
 - [Working remotely, coworking spaces, and mental health](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
 - [HumanOps](http://www.humanops.com/)
+- [Engineering a Culture of Psychological Safety](https://blog.intercom.com/psychological-safety/)
 
 
 ## Internship Programs
