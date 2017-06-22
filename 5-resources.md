@@ -109,7 +109,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 - [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
 - [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392)
-
+- [The Boss You Don't Want to Be](https://m.signalvnoise.com/the-boss-you-dont-want-to-be-3fdfe6c4e8dd)
 
 
 
