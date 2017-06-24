@@ -30,6 +30,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [MeetEdgar's Cultura Guide, Handbook](https://docs.google.com/document/d/12mv0roRKL5qULoV_JUcDC8OD6lnF0YlVktuyMlFka7A/edit)
 - [People, Performance Management at Startups via HomeBrew VC](https://quip.com/MwcgA10sGgFC)
 - [Tours of Duty: The New Employer-Employee Compact](https://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact) - Book here is great: [The Alliance](http://amzn.to/2sZAyOM)
+- [The Talent Playbook](https://www.slideshare.net/MariaBrewer/talent-playbook)
+- [Legal Concepts for Founders](https://handbook.clerky.com/)
 
 
 
@@ -46,6 +48,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How Instacart Uses Data to Craft A Bespoke Comp Strategy](http://firstround.com/review/how-instacart-uses-data-to-craft-a-bespoke-comp-strategy/)
 - [Turbocharge Your Recruiting Machine — Here’s How](http://firstround.com/review/turbocharge-your-recruiting-machine-heres-how/)
 - [Keep Interviewing and Nobody Explodes](https://engineering.wework.com/keep-interviewing-and-nobody-explodes-450fd95631b2) - WeWork uses games as part of the hiring process.
+- [Startup Recruiting Workbook: Sourcing and Interview](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/)
 
 
 
@@ -73,8 +76,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Why We’re Becoming More Mindful in Sharing Swag](https://open.buffer.com/mindful-swag/)
 - [Uniqlo Boss: ‘Without a Soul, a Company is Nothing’](https://www.businessoffashion.com/articles/people/uniqlo-fast-retailing-ceo-tadashi-yanai-management-principles)
 - [What Our 3 Biggest Successes and 2 Biggest Failures Taught Us About Company Culture](https://open.buffer.com/build-company-culture/)
--
-
+- [Anna Binder: How Asana Built SV's Leading Company Culture](https://latticehq.com/resources-for-humans/anna-binder-asana/)
+- [How The Marine Corps Builds an Innovation Culture](https://steveblank.com/2016/11/10/how-the-marine-corps-builds-an-innovation-culture/)
 
 
 
@@ -120,7 +123,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The Mentor Manifesto](http://davidgcohen.com/2011/08/28/the-mentor-manifesto/) - [Brad Feld's Breakdown](http://feld.com/archives/2014/07/deconstructing-mentor-manifesto.html) here as well.
 - [Mentorship at Slack](https://slack.engineering/mentorship-at-slack-cb0962d75a10)
 - [Docker Global Mentor Week](https://blog.docker.com/2016/10/docker-global-mentor-week-2016/)
-
+- [Organizing Teams With Players and Coaches](https://www.helpscout.net/blog/effective-teams/)
 
 
 
