@@ -164,7 +164,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Ask a Female Engineer: Employees with Kids and Relationships at Work](http://blog.ycombinator.com/ask-a-female-engineer-4/)
 - [The family-friendly startup is possible. Here’s how you build one.](https://hackernoon.com/the-family-friendly-startup-is-possible-heres-how-you-build-one-c3cdbf6133ea)
 - [Project: Include](http://projectinclude.org/)
-- 
+-  [Mom, Why Did You Create a Startup?](http://www.techstars.com/content/accelerators/mom-create-startup/)
 
 
 
