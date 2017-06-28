@@ -32,7 +32,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Tours of Duty: The New Employer-Employee Compact](https://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact) - Book here is great: [The Alliance](http://amzn.to/2sZAyOM)
 - [The Talent Playbook](https://www.slideshare.net/MariaBrewer/talent-playbook)
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
-
+- [Toward of Theory of Organizational Socialization." Research in Organizational Behavior](http://faculty.babson.edu/krollag/org_site/org_theory/socialization_notes/vanschein_soc.html)
+- [Normalization of deviance in software: how broken practices become standard](http://danluu.com/wat/)
+- [Building Your HR Early – Tools & Culture](https://visible.vc/blog/building-hr-early-tools-culture/)
+- [We Learn More When We Learn Together](https://hbr.org/2016/01/we-learn-more-when-we-learn-together)
 
 
 ## Hiring
@@ -49,6 +52,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Turbocharge Your Recruiting Machine — Here’s How](http://firstround.com/review/turbocharge-your-recruiting-machine-heres-how/)
 - [Keep Interviewing and Nobody Explodes](https://engineering.wework.com/keep-interviewing-and-nobody-explodes-450fd95631b2) - WeWork uses games as part of the hiring process.
 - [Startup Recruiting Workbook: Sourcing and Interview](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/)
+- [A Primer for Startups and Job Seekers to BOTH Win the Talent War](http://firstround.com/review/a-primer-for-startups-and-job-seekers-to-both-win-the-talent-war/)
 
 
 
@@ -57,6 +61,33 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Employee Onboarding is Broken, Here's How to Fix It](http://firstround.com/review/Employee-Onboarding-at-Startups-Is-Broken-Heres-How-to-Fix-It/)
 - [Onboarding Strategy for Startups](http://blog.namely.com/blog/2015/3/19/the-ultimate-onboarding-strategy-for-startups)
 - [Effective Onboarding Experience for Startups](https://www.forbes.com/sites/sujanpatel/2015/03/11/how-to-create-an-effective-onboarding-experience-at-your-startup/#79ca86952b16)
+- [9 Surprising Employee Onboarding Statistics](http://www.lessonly.com/blog/9-surprising-employee-onboarding-statistics/)
+- [Employee Turnover Because of Poor Onboarding](https://www.hrbartender.com/2012/recruiting/employee-turnover-caused-by-bad-onboarding-programs/)
+- [13 Questions to Maximize Onboarding Efforts](https://www.eremedia.com/ere/13-questions-to-maximize-your-onboarding-efforts/)
+- [How Not To Lose Your New Employees In Their First 45 Days](https://www.forbes.com/sites/85broads/2013/07/19/how-not-to-lose-your-new-employees-in-their-first-45-days/#612ad1c73be3)
+- [The Cost of Hiring a New Employee](http://www.investopedia.com/financial-edge/0711/the-cost-of-hiring-a-new-employee.aspx)
+- [How to Revamp Your Onboarding Process](https://www.fastcompany.com/3051988/how-to-revamp-your-on-boarding-process)
+- [Lean Startup Guide to Employee Onboarding](http://blog.hellosign.com/lean-startup-guide-employee-onboarding/)
+- [Improving the onboarding experience with Kimberly Bringas: Olark](https://supportdriven.com/2014/11/12/improving-the-onboarding-experience-with-kimberly-bringas/)
+- [What are some common onboarding issues when a new employee starts work at a company?](https://www.quora.com/What-are-some-common-onboarding-issues-when-a-new-employee-starts-work-at-a-company)
+- [What are trends in onboarding millenials?](https://www.quora.com/What-are-trends-in-onboarding-millenials)
+- [Getting New Employees Off to a Good Start](https://boss.blogs.nytimes.com/2013/03/13/getting-employees-off-to-a-good-start/)
+- [Onboarding and the Cost of Team Debt](https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt)
+- [MIT Sloan: Reinventing Employee Onboarding](http://sloanreview.mit.edu/article/reinventing-employee-onboarding/)
+- [Employee Onboarding Best Practices](https://www.helpscout.net/blog/employee-onboarding/)
+- [Onboarding New Employees with Trello](https://medium.com/@Liz_Hall1/onboarding-new-hires-with-trello-ecc87e87ffd5)
+- [A Step-by-Step Guide to Onboarding New Hires](https://medium.com/startup-study-group/22-tips-to-revitalize-the-new-hire-onboarding-process-at-your-startup-e02e05e0a9e2)
+- [12 Employee Onboarding Best Practices](http://wheniwork.com/blog/smb/people-management/employee-onboarding-best-practices/)
+- [Extreme Onboarding: How to WOW Your New Hires Rather Than Numb Them](https://business.linkedin.com/talent-solutions/blog/2015/07/extreme-onboarding-how-to-wow-your-new-hires-rather-than-numb-them)
+- [The Only Onboarding Timeline You’ll Need: From Offer to First Friday](http://firstround.com/review/the-only-onboarding-timeline-youll-need-from-offer-to-first-friday/)
+- [Onboarding Best Practices: How the Smartest Companies Turn New Hires Into Great Employees](https://foundrmag.com/onboarding-best-practices/)
+- [How we dramatically improved 18F’s onboarding process in 3 months](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/)
+- [How Employee Onboarding can increase Productivity and decrease Turnover to create Profits](https://medium.com/evergreen-business-weekly/why-employee-onboarding-is-holding-back-your-team-and-how-to-get-it-right-3ec5b3b36f6e)
+-
+
+
+
+
 
 
 
@@ -78,6 +109,9 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [What Our 3 Biggest Successes and 2 Biggest Failures Taught Us About Company Culture](https://open.buffer.com/build-company-culture/)
 - [Anna Binder: How Asana Built SV's Leading Company Culture](https://latticehq.com/resources-for-humans/anna-binder-asana/)
 - [How The Marine Corps Builds an Innovation Culture](https://steveblank.com/2016/11/10/how-the-marine-corps-builds-an-innovation-culture/)
+- [Culture Eats Strategy for Breakfast](https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/)
+- [Company culture tips from Netflix, Zappos, Atlassian](https://venturebeat.com/2016/01/17/company-culture-tips-from-netflix-zappos-atlassian/)
+- 
 
 
 
@@ -114,7 +148,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
 - [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392)
 - [The Boss You Don't Want to Be](https://m.signalvnoise.com/the-boss-you-dont-want-to-be-3fdfe6c4e8dd)
-
+- [The Right Way to Grant Equity to Your Employees](http://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/)
 
 
 
@@ -124,7 +158,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Mentorship at Slack](https://slack.engineering/mentorship-at-slack-cb0962d75a10)
 - [Docker Global Mentor Week](https://blog.docker.com/2016/10/docker-global-mentor-week-2016/)
 - [Organizing Teams With Players and Coaches](https://www.helpscout.net/blog/effective-teams/)
-
+- [Employee Retention: How To Beat The Odds and Keep Your Best Employees Around Longer](http://wheniwork.com/blog/smb/people-management/employee-retention/)
 
 
 ## Working Remote
@@ -185,6 +219,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Working remotely, coworking spaces, and mental health](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
 - [HumanOps](http://www.humanops.com/)
 - [Engineering a Culture of Psychological Safety](https://blog.intercom.com/psychological-safety/)
+- [Google HR boss explains the only 2 ways to keep your best people from quitting](http://www.businessinsider.com/google-laszlo-bock-how-to-retain-employees-2015-4)
+-
+
+
+
 
 
 ## Internship Programs
@@ -195,9 +234,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 - [How much does employee turnover really cost?](https://medium.com/resources-for-humans/how-much-does-employee-turnover-really-cost-d61df5eed151)
 - [People leave managers, not companies. Don’t let that manager be you.](https://blog.intercom.com/people-leave-managers-not-companies/)
-
-
-
+- [Onboarding Stats You Need to Know](http://www.urbanbound.com/blog/onboarding-infographic-statistics)
+- [The Unexpected Challenge of Unlimited Vacation Time](https://thenextweb.com/insider/2016/01/23/the-unexpected-challenge-of-unlimited-vacation-time/#.tnw_foy239HN)
 
 
 ***
@@ -232,6 +270,12 @@ The following is a list of technology, consulting, and product / service compani
 - [Small Improvements](https://www.small-improvements.com/)
 - [Checkr](https://checkr.com/) - Background Checks
 - [eShares](https://esharesinc.com/) - Cap Table, Equity Management
+- [Guru](https://www.getguru.com/)
+- [CultureIQ](https://cultureiq.com/)
+- [Kin HR](https://kinhr.com/)
+- [Charlie HR](https://www.charliehr.com/)
+- [Tiny Pulse](https://www.tinypulse.com/increase-communication)
+- [Continu - Learning Platform](https://www.continu.co/)
 
 ## Applicant Tracking Systems (ATS)
 
@@ -242,9 +286,10 @@ The following is a list of technology, consulting, and product / service compani
 - [Breezy HR](https://breezy.hr/)
 - [Asana](https://asana.com/) - Learn how to hire [free tool](https://asana.com/guide/examples/hr/onboarding).
 - [Trello](http://trello.com) - [Free Boards](https://blog.trello.com/trello-boards-for-hr-teams) to try for HR teams.
+- [OnboardIQ](https://www.onboardiq.com/)
 
 
-## Hiring, Recruiting
+## Hiring, Recruiting, Onboarding
 
 - [Recruitly](https://recruitly.ca/)
 - [Angel List](https://angel.co/)
@@ -253,6 +298,8 @@ The following is a list of technology, consulting, and product / service compani
 - [Sourcing.io](https://sourcing.io/)
 - [TripleByte - Coding Quiz, Developer Jobs](https://triplebyte.com/)
 - [Piazza](https://recruiting.piazza.com/) 
+- [HR Onboard](https://hronboard.me/)
+- [Click Boarding](https://www.clickboarding.com/)
 
 ## Payroll, Benefits
 
