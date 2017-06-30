@@ -149,7 +149,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392)
 - [The Boss You Don't Want to Be](https://m.signalvnoise.com/the-boss-you-dont-want-to-be-3fdfe6c4e8dd)
 - [The Right Way to Grant Equity to Your Employees](http://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/)
-
+- [Google's New Manager Training Docs](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
 
 
 ## Mentorship and Coaching
@@ -166,7 +166,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [An Engineering Manager’s Guide to the Future of Work](https://www.linkedin.com/pulse/engineering-managers-guide-future-work-scott-carleton)
 - [How Our Remote Team Stays Aligned With ‘Town Hall’ Meetings](https://www.helpscout.net/blog/remote-team-meetings/)
 - [Scaling A Distributed Team to 50+ Employees](https://stories.uplabs.com/scaling-a-distributed-team-to-50-employees-6ea8392271bc)
-
+- [The Complete Guide to Working on a Remote Team](https://medium.com/@meganberry/the-complete-guide-to-working-on-a-remote-team-6bb11213e37c)
 
 
 
@@ -198,10 +198,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Ask a Female Engineer: Employees with Kids and Relationships at Work](http://blog.ycombinator.com/ask-a-female-engineer-4/)
 - [The family-friendly startup is possible. Here’s how you build one.](https://hackernoon.com/the-family-friendly-startup-is-possible-heres-how-you-build-one-c3cdbf6133ea)
 - [Project: Include](http://projectinclude.org/)
--  [Mom, Why Did You Create a Startup?](http://www.techstars.com/content/accelerators/mom-create-startup/)
-
-
-
+- [Mom, Why Did You Create a Startup?](http://www.techstars.com/content/accelerators/mom-create-startup/)
+- [The One Startup Debt You Can't Pay Back](https://sneakerheadvc.com/the-one-startup-debt-you-cant-pay-back-64dd7be7c930)
+- [Sexual Harassment: A Better Path to Decency](https://hackernoon.com/a-better-path-to-decency-will-tech-lead-the-way-ebd055c2482e)
+- [The Human Rights of Women](https://www.linkedin.com/pulse/human-rights-women-entrepreneurs-reid-hoffman)
 
 
 ## Health
