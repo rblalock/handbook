@@ -53,6 +53,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Keep Interviewing and Nobody Explodes](https://engineering.wework.com/keep-interviewing-and-nobody-explodes-450fd95631b2) - WeWork uses games as part of the hiring process.
 - [Startup Recruiting Workbook: Sourcing and Interview](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/)
 - [A Primer for Startups and Job Seekers to BOTH Win the Talent War](http://firstround.com/review/a-primer-for-startups-and-job-seekers-to-both-win-the-talent-war/)
+- [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)
 
 
 
@@ -150,6 +151,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The Boss You Don't Want to Be](https://m.signalvnoise.com/the-boss-you-dont-want-to-be-3fdfe6c4e8dd)
 - [The Right Way to Grant Equity to Your Employees](http://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/)
 - [Google's New Manager Training Docs](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
+- [The CTO Journey at a Small Startup](https://zapier.com/engineering/startup-cto/)
 
 
 ## Mentorship and Coaching
