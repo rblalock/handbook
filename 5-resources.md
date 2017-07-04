@@ -152,6 +152,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The Right Way to Grant Equity to Your Employees](http://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/)
 - [Google's New Manager Training Docs](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
 - [The CTO Journey at a Small Startup](https://zapier.com/engineering/startup-cto/)
+- [First Follower: Leadership Lessons from Dancing Guy](https://sivers.org/ff)
 
 
 ## Mentorship and Coaching
