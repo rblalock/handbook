@@ -205,7 +205,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The One Startup Debt You Can't Pay Back](https://sneakerheadvc.com/the-one-startup-debt-you-cant-pay-back-64dd7be7c930)
 - [Sexual Harassment: A Better Path to Decency](https://hackernoon.com/a-better-path-to-decency-will-tech-lead-the-way-ebd055c2482e)
 - [The Human Rights of Women](https://www.linkedin.com/pulse/human-rights-women-entrepreneurs-reid-hoffman)
-
+- [Atlassian Boosted Its Female Technical Hires By 80% — Here’s How](http://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/)
+- [Diversity Debt: How Much Does Your Startup Have?](https://medium.com/@abarrica/startups-diversity-debt-and-what-to-do-about-it-cd385364506)
 
 ## Health
 
