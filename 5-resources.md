@@ -147,6 +147,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [What the Best Leaders Do - 10 Things](https://m.signalvnoise.com/what-the-best-leaders-do-2848c214a7ff)
 - [Key Takeaways from CTO Unconference](http://firstround.com/review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/) - Useful for non-technical leaders too.
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
+- [How to Have an Honest 1:1](https://blog.knowyourcompany.com/how-to-have-an-honest-one-on-one-with-an-employee-6b918e5662bb)
 - [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
 - [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392)
 - [The Boss You Don't Want to Be](https://m.signalvnoise.com/the-boss-you-dont-want-to-be-3fdfe6c4e8dd)
