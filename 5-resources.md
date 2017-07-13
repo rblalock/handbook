@@ -209,6 +209,9 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Atlassian Boosted Its Female Technical Hires By 80% — Here’s How](http://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/)
 - [Diversity Debt: How Much Does Your Startup Have?](https://medium.com/@abarrica/startups-diversity-debt-and-what-to-do-about-it-cd385364506)
 - [A Diversity Guide for Startups and Scaleups - PDF](https://www.changetogether.io/)
+- [Diversity and Inclusion @ Helpscout - What Gets Measured](https://www.helpscout.net/blog/diversity-inclusion/)
+
+
 
 
 ## Health
