@@ -172,7 +172,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How Our Remote Team Stays Aligned With ‘Town Hall’ Meetings](https://www.helpscout.net/blog/remote-team-meetings/)
 - [Scaling A Distributed Team to 50+ Employees](https://stories.uplabs.com/scaling-a-distributed-team-to-50-employees-6ea8392271bc)
 - [The Complete Guide to Working on a Remote Team](https://medium.com/@meganberry/the-complete-guide-to-working-on-a-remote-team-6bb11213e37c)
-
+- [The 6 Biggest Remote Work Problems We Need To Talk About](https://medium.com/@trello/the-6-biggest-remote-work-problems-we-need-to-talk-about-5099fc6aba84)
+- [6 Rules To Live By When You Work In An Office But Have Remote Team Members](https://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members)
 
 
 
