@@ -38,6 +38,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [We Learn More When We Learn Together](https://hbr.org/2016/01/we-learn-more-when-we-learn-together)
 - [Organizational Design in Startups](http://tomtunguz.com/organizational-design/)
 - [Gusto: Employee Handbook](https://gusto.com/framework/crash-course-guides/the-ultimate-employee-handbook/) - PDF Download [here](https://www.dropbox.com/s/s3ri0gfzl3yyuy6/Gusto_How_to_Create_an_Employee_Handbook_final.pdf?dl=0).
+- [A Quick Guide to Stripe's Culture](https://stripe.com/us/jobs/candidate-info)
+
+
+
+
 
 ## Hiring
 
@@ -155,6 +160,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Google's New Manager Training Docs](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
 - [The CTO Journey at a Small Startup](https://zapier.com/engineering/startup-cto/)
 - [First Follower: Leadership Lessons from Dancing Guy](https://sivers.org/ff)
+- [Our 6 Must Reads for Scaling Yourself as a Leader](http://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/)
+- [Buzzfeed's Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md)
+
+
 
 
 ## Mentorship and Coaching
