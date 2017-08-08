@@ -297,6 +297,10 @@ The following is a list of technology, consulting, and product / service compani
 - [Charlie HR](https://www.charliehr.com/)
 - [Tiny Pulse](https://www.tinypulse.com/increase-communication)
 - [Continu - Learning Platform](https://www.continu.co/)
+- [TeamBit](https://teambit.io/)
+
+
+
 
 ## Applicant Tracking Systems (ATS)
 
