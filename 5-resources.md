@@ -184,7 +184,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The 6 Biggest Remote Work Problems We Need To Talk About](https://medium.com/@trello/the-6-biggest-remote-work-problems-we-need-to-talk-about-5099fc6aba84)
 - [6 Rules To Live By When You Work In An Office But Have Remote Team Members](https://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members)
 - [How to Handle Conflict on Remote Teams](https://www.helpscout.net/blog/remote-team-conflict/)
-
+- [How to Determine if Candidates Will Thrive in a Remote Work Environment](https://hackernoon.com/how-to-determine-if-candidates-will-thrive-in-a-remote-work-environment-d538d1e8f831)
 
 ## Team Dynamics
 
