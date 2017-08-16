@@ -25,7 +25,7 @@ Our values are simple and straight-forward, liberally taken from @Jeff and @Nola
 
 To be filled in... soon...
 
-## Our Founders
+## Our Team
 
 #### Jeff Haynie - CEO
 
@@ -41,4 +41,16 @@ Nolan started his career at Andersen Consulting (now Accenture), and then went t
 
 #### John Saddington - Product
 
-John was co-founder of The Iron Yard before an acquisition by Apollo Global in June, 2015. Before that, he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and new vlogger.
+John was co-founder of The Iron Yard before an acquisition by Apollo Global in June, 2015. Before that, he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and newbie (wannabe) vlogger.
+
+#### Scott Davenport
+
+TBD...
+
+#### Rick Blalock
+
+TBD...
+
+#### Brad Hipps
+
+TBD...
