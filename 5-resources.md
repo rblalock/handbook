@@ -298,7 +298,10 @@ The following is a list of technology, consulting, and product / service compani
 - [Tiny Pulse](https://www.tinypulse.com/increase-communication)
 - [Continu - Learning Platform](https://www.continu.co/)
 - [TeamBit](https://teambit.io/)
-
+- [7Geese](https://7geese.com/)
+- [People.ai](https://people.ai/)
+- [Peakon](https://peakon.com/)
+- [Populate.io](https://populate.io/home)
 
 
 
@@ -312,6 +315,7 @@ The following is a list of technology, consulting, and product / service compani
 - [Asana](https://asana.com/) - Learn how to hire [free tool](https://asana.com/guide/examples/hr/onboarding).
 - [Trello](http://trello.com) - [Free Boards](https://blog.trello.com/trello-boards-for-hr-teams) to try for HR teams.
 - [OnboardIQ](https://www.onboardiq.com/)
+- [JazzHR](https://www.jazzhr.com/)
 
 
 ## Hiring, Recruiting, Onboarding
@@ -325,6 +329,11 @@ The following is a list of technology, consulting, and product / service compani
 - [Piazza](https://recruiting.piazza.com/) 
 - [HR Onboard](https://hronboard.me/)
 - [Click Boarding](https://www.clickboarding.com/)
+- [Rippling](https://www.rippling.com/)
+- [Tidy](https://www.tydy.co/)
+- [Hired](http://hired.com)
+- [Homerun](https://www.homerun.co/)
+- [Recruitee](https://recruitee.com/)
 
 ## Payroll, Benefits
 
@@ -333,9 +342,13 @@ The following is a list of technology, consulting, and product / service compani
 - [Namely](https://www.namely.com/)
 - [Sequoia](http://www.sequoia.com/)
 - [Trinet](https://www.trinet.com/)
+- [Zenefits](https://www.zenefits.com/)
+- [Workday](https://www.workday.com/)
+- [CakeHR](https://cake.hr/)
+- [SilkRoad](https://www.silkroad.com/)
 
 ## Misc...
 
 - [Hivy](https://hivyapp.com/) - Office Management Platform
-
+- [HRStash](http://hrstash.co/) - Curated List of Resources
 
