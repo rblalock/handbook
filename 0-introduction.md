@@ -49,7 +49,7 @@ TBD...
 
 #### Rick Blalock
 
-Rick Blalock started his career with creating a small development shop, in Jupiter, FL.  He's worked at Appcelerator for several years as an app developer, solution architect, and later in product architecture.  Rick also worked at IBM as a WW Lab Service Architect in the Hybrid Cloud division.  Rick is also co-founder of the no. 1 Fishing regulation app, Fish Rules, LLC.
+Rick Blalock started his career creating a small development shop, in Jupiter, FL.  He worked at Appcelerator for several years as an app developer, a solution architect, and later as director of product architecture.  Rick also worked at IBM as a WW Lab Service Architect, in the Hybrid Cloud division.  Rick is also co-founder of the no. 1 Fishing regulation app, Fish Rules, LLC.
 
 #### Brad Hipps
 
